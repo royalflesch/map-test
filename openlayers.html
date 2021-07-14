@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+      html, body{
+        margin:0;
+        padding:0;
+      }
+      .map {
+        height: 100vh;
+        width: 100%;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers example</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.GeoJSON(),
+              url: './data/stationen.geojson'
+            }),
+            style: new ol.style.Style({
+              image: new ol.style.Circle({
+                radius: 4,
+                fill: new ol.style.Fill({
+                    color: '#000'
+                })
+              })
+            })
+          }),
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([10.02812277037044, 53.563552128990665]),
+          zoom: 12
+        })
+      });
+    </script>
+  </body>
+</html>

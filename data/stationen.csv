@@ -1,0 +1,1088 @@
+X,Y,standort,anzahl_ladepunkte,ladesaeule_status,adresse,koordinaten,typ,ladepunkt,stecker,status,authmethod_1,authmethod_2
+9.987,53.541,"398","2",belegt,Am Kaiserkai 53,N53.541290 E9.987390,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.002,53.498,"441","2",frei,Neuenfelder Straße 19,N53.497900 E10.002170,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.96,53.568,"305","2",teilweise belegt,Bellealliancestraße 40,N53.568036 E9.960359,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.979,53.464,"476","2",frei,Wallgraben 46,N53.463710 E9.978910,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.074,53.575,"052","3",belegt,Wandsbeker Zollstraße 15,N53.574780 E10.074180,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.002,53.593,"076","3",belegt,Grasweg 6,N53.592820 E10.002150,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.99,53.456,"318","2",frei,Hannoversche Straße 88,N53.455671 E9.989705,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.012,53.557,"375","2",teilweise belegt,Greifswalder Str. 37,N53.557290 E10.011770,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.074,53.575,"052","3",belegt,Wandsbeker Zollstraße 15,N53.574780 E10.074180,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.943,53.593,"261","2",frei,Koppelstraße Ecke Lokstedter Grenzstraße 45,N53.593396 E9.942715,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.937,53.574,"541","2",frei,Große Bahnstraße 30,N53.573960 E9.936910,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.999,53.55,"207","2",teilweise belegt,Kattrepel 20,N53.549675 E9.999197,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.054,53.569,"021","3",frei,Kantstraße 4,N53.569090 E10.053610,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.602,"382","2",frei,Nedderfeld 80,N53.601570 E9.975560,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.051,53.548,"466","2",teilweise belegt,Süderstraße 288,N53.547620 E10.051320,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.962,53.574,"074","3",teilweise belegt,Eppendorfer Weg 86,N53.574240 E9.961880,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.203,53.489,"662","2",frei,Kurt-A.-Körber-Chaussee 5,N53.488939 E10.202586,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.919,53.563,"300","2",belegt,Beim Alten Gaswerk 3,N53.563150 E9.918796,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.987,53.541,"398","2",belegt,Am Kaiserkai 53,N53.541290 E9.987390,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.013,53.583,"673","2",teilweise belegt,Peter-Marquard-Straße 13,N53.583348 E10.013078,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.958,53.553,"477","2",frei,Paul-Roosen Straße 22,N53.553120 E9.958370,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.936,53.546,"202","2",frei,Palmaille 73,N53.546437 E9.935543,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.203,53.483,"703","2",frei,Glasbläserhöfe 14,N53.482838 E10.202717,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.087,53.66,"007","3",frei,Poppenbüttler Markt 12,N53.660380 E10.086780,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.107,53.547,"547","2",teilweise belegt,Schiffbeker Weg 83,N53.547040 E10.106530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.044,53.575,"314","2",teilweise belegt,Von-Essen-Straße 75,N53.575095 E10.044319,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+14.822,51.293,"7020","3",teilweise belegt,Zinzendorfplatz 2,N51.293392 E14.822248,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.937,53.574,"541","2",frei,Große Bahnstraße 30,N53.573960 E9.936910,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.916,53.563,"635","2",teilweise belegt,Paul-Dessau-Straße 2,N53.563490 E9.915853,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.083,53.66,"634","2",frei,Harksheider Straße 11,N53.660268 E10.082620,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.953,53.582,"498","2",frei,Eidelstedter Weg 32,N53.581810 E9.953410,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.887,53.558,"526","2",belegt,Falckweg 3,N53.557980 E9.886780,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.043,53.579,"313","2",frei,Dehnhaide 12,N53.579073 E10.042557,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.005,53.549,"402","2",belegt,Johanniswall 6,N53.548900 E10.004870,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.057,53.55,"462","2",frei,Wendenstraße 473,N53.549660 E10.056690,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.005,53.585,"359","2",belegt,Sierichstraße 78,N53.584710 E10.004650,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.926,53.549,"615","2",belegt,Arnoldstraße 45,N53.548827 E9.925680,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.043,53.586,"230","2",frei,Poppenhusenstraße 2,N53.585581 E10.043033,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.865,53.571,"280","2",teilweise belegt,Heinrich-Plett-Str. 4,N53.571177 E9.864905,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.998,53.72,"1219","2",teilweise belegt,Ulzburger Straße 362,N53.720310 E9.998310,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.036,53.597,"415","2",teilweise belegt,Alte Wöhr 20,N53.597420 E10.036280,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.94,53.558,"412","2",frei,Haubachstraße 39,N53.557850 E9.939660,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.874,53.562,"573","2",frei,Müllenhoffweg 54,N53.561660 E9.873680,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.074,53.604,"764","1",teilweise belegt,Moosrosenweg 18,N53.604279 E10.073739,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.909,53.566,"276","2",frei,Von-Sauer-Straße 11,N53.565580 E9.908842,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.017,53.556,"222","2",teilweise belegt,Steindamm 94,N53.555550 E10.017166,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.0,53.618,"515","2",teilweise belegt,Sportallee 81,N53.617600 E10.000380,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.019,53.653,V11,"4",teilweise belegt,Tangstedter Landstraße 83,N53.652610 E10.018730,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.018,53.712,"1223","2",teilweise belegt,Stormarnstraße 55,N53.711750 E10.017930,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.986,53.588,"587","2",frei,Eppendorfer Landstraße 41,N53.588329 E9.985718,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.954,53.55,"204","2",belegt,Königstraße 4A,N53.549762 E9.953949,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.076,53.564,"629","2",frei,Husarenhof 1,N53.564191 E10.075661,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.982,53.568,"218","2",frei,Bornstraße 18,N53.568175 E9.981787,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.928,53.6,"470","2",belegt,Jütländer Allee 47,N53.600000 E9.928480,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.985,53.504,"064","3",teilweise belegt,Veringstraße 173,N53.504270 E9.985390,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.033,53.549,"682","2",teilweise belegt,Wendenstraße 162,N53.548912 E10.032816,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+13.464,51.154,"7283","2",teilweise belegt,Talstraße 10,N51.154400 E13.463650,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.167,53.649,"012","3",belegt,Wiesenhöfen 2,N53.648780 E10.167440,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+9.982,53.568,"218","2",frei,Bornstraße 18,N53.568175 E9.981787,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.244,53.661,"9203","2",teilweise belegt,Am Aalfang 12,N53.661368 E10.244113,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.038,53.591,"521","2",frei,Hellbrookstraße 9,N53.591410 E10.038130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.05,53.577,"589","2",frei,Erika-Mann-Bogen 21,N53.576580 E10.049620,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.954,53.56,"435","2",frei,Bei der Johanniskirche 16,N53.559890 E9.954060,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.041,53.603,"294","2",teilweise belegt,Fuhlsbüttler Straße 387,N53.602574 E10.040627,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.163,53.652,"206","2",frei,Kattjahren 4,N53.651913 E10.162925,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.867,53.568,"639","2",belegt,Heinrich-Plett-Straße 14,N53.567973 E9.866507,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.977,53.46,"200","2",frei,Julius-Ludowieg-Straße 23,N53.459600 E9.976730,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.811,53.559,"455","2",teilweise belegt,Blankeneser Bahnhofstraße 4,N53.558932 E9.811458,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.943,53.555,"654","2",frei,Schumacherstraße 109,N53.555139 E9.942609,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.981,53.552,"532","2",belegt,Rademachergang 20,N53.552130 E9.980700,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.997,53.682,"1208","2",teilweise belegt,Am Tarpenufer 10,N53.681500 E9.996710,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.988,53.514,"486","2",frei,Mannesallee 28,N53.514290 E9.987890,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.014,53.576,"494","2",frei,Fährhausstraße 27,N53.575880 E10.013740,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.633,"035","3",frei,Flughafenstr. 1,N53.632620 E10.006390,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.211,53.484,"079","3",frei,Neuer Weg 62A,N53.483558 E10.211489,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.791,53.56,"510","2",teilweise belegt,Falkentaler Weg 4,N53.559930 E9.790760,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.845,53.553,"308","2",teilweise belegt,Nienstedtener Marktplatz 20,N53.552735 E9.844532,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.97,53.464,"250","2",frei,Schwarzenbergstraße 95,N53.463805 E9.970200,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.972,53.46,"452","2",frei,Am Irrgarten 8,N53.460230 E9.971790,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.562,"306","2",teilweise belegt,Lagerstraße 32,N53.562469 E9.967275,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.961,53.441,"499","2",belegt,Binnenfeld 22,N53.441200 E9.960900,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.075,53.664,"425","2",frei,Langenhorner Straße-Ost 7,N53.663760 E10.074550,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.016,53.562,"233","2",frei,Schweimlerstraße 1,N53.561661 E10.016461,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.918,53.549,"395","2",frei,Hohenzollernring 24,N53.548780 E9.917770,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.945,53.555,"543","2",frei,Warnholtzstraße 7,N53.555330 E9.945310,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.99,53.456,"318","2",frei,Hannoversche Straße 88,N53.455671 E9.989705,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.545,"078","3",belegt,Deichstraße 51,N53.545080 E9.986570,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+9.988,53.735,"1209","2",teilweise belegt,Beim Umspannwerk 0,N53.734640 E9.987980,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.203,53.489,"662","2",frei,Kurt-A.-Körber-Chaussee 5,N53.488939 E10.202586,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.939,53.552,"017","3",frei,Große Bergstraße 262,N53.552100 E9.938640,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.998,53.595,"405","2",frei,Alsterdorfer Straße 9,N53.595390 E9.998070,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.606,"381","2",teilweise belegt,Niendorfer Straße 64,N53.606070 E9.956170,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.064,53.554,"003","3",frei,Hammer Landstraße 204,N53.553948 E10.063607,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.065,53.571,"056","3",teilweise belegt,Schloßstraße 8,N53.571140 E10.065180,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.01,53.59,"611","2",frei,Riststraße 3,N53.590368 E10.009969,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.989,53.578,"617","2",teilweise belegt,Oberstraße 106,N53.577713 E9.989339,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.633,"038","3",teilweise belegt,Flughafenstr. 1,N53.632620 E10.006390,DC,,CHAdeMO,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.998,53.552,"231","2",teilweise belegt,Alstertor 13,N53.552225 E9.997597,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.017,53.553,"468","2",frei,Böckmannstraße 5,N53.553460 E10.017040,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.014,53.576,"494","2",frei,Fährhausstraße 27,N53.575880 E10.013740,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.036,53.587,"585","2",belegt,Wiesendamm 51,N53.587465 E10.036253,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.974,53.574,"581","2",frei,Bogenstraße 34,N53.573570 E9.974200,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.044,53.592,"284","2",frei,Fuhlsbüttler Straße 149,N53.591820 E10.043950,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.996,53.56,"253","2",teilweise belegt,Alsterufer 3,N53.559507 E9.996083,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.985,53.604,"277","2",frei,Borsteler Chaussee 17,N53.604090 E9.984919,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.546,"236","2",belegt,Steintwiete 18,N53.546486 E9.986622,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.035,53.605,"567","2",belegt,Andreas-Knack-Ring 2,N53.604642 E10.034874,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.993,53.539,"904","4",teilweise belegt,Am Strandkai 1,N53.539280 E9.992880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.013,53.579,"365","2",frei,Körnerstraße 1,N53.579470 E10.012690,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.597,"048","3",belegt,Christoph-Probst-Weg 28,N53.596800 E9.976150,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.975,53.549,"025","3",frei,Zeughausmarkt 19,N53.549260 E9.974710,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.986,53.588,"587","2",frei,Eppendorfer Landstraße 41,N53.588329 E9.985718,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.551,"249","2",teilweise belegt,Seilerstraße 16,N53.550520 E9.966698,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.982,53.463,"273","2",frei,Schlossmühlendamm 23,N53.463009 E9.981628,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.237,53.674,"9201","2",teilweise belegt,Manfred Samusch Straße 5,N53.673632 E10.236555,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.969,53.559,"531","2",frei,Laeiszstraße 15,N53.558779 E9.969319,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.601,"269","2",frei,Lattenkamp 79,N53.600546 E9.994941,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.98,53.586,"353","2",belegt,Curschmannstraße 10,N53.585760 E9.979940,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.137,53.572,"423","2",frei,Öjendorfer Damm 60,N53.571800 E10.136530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.797,53.58,"419","2",frei,Sülldorfer Landstraße 196,N53.580400 E9.797170,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.094,53.652,"903","4",teilweise belegt,Stormarnplatz 3,N53.651740 E10.094320,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.919,53.563,"300","2",belegt,Beim Alten Gaswerk 3,N53.563150 E9.918796,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.013,53.583,"673","2",teilweise belegt,Peter-Marquard-Straße 13,N53.583348 E10.013078,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.972,53.585,"569","2",frei,Breitenfelder Straße 16,N53.584900 E9.971780,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.043,53.54,"357","2",frei,Billhorner Deich 96,N53.539580 E10.042590,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.985,53.557,"080","3",frei,Drehbahn 13,N53.556520 E9.984960,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.602,"382","2",frei,Nedderfeld 80,N53.601570 E9.975560,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.926,53.556,"672","2",frei,Borselstraße 7,N53.556224 E9.925645,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.992,53.591,"568","2",belegt,Kellinghusenstraße 10,N53.590674 E9.992296,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.039,53.546,"262","2",teilweise belegt,Ausschläger Weg 100,N53.546401 E10.039314,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.049,53.568,"303","2",frei,Roßberg 2,N53.567830 E10.049440,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.955,53.58,"451","2",frei,Lutterothstraße 22,N53.580010 E9.955040,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.018,53.602,"075","3",teilweise belegt,New-York-Ring 1,N53.602180 E10.018180,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.056,53.562,"660","2",teilweise belegt,Chateauneufstraße 2,N53.561851 E10.056089,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.102,53.598,"036","3",frei,Traberweg 2,N53.597620 E10.101780,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.185,53.609,"529","2",frei,Neuer Höltigbaum 6,N53.609470 E10.184680,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.977,53.553,"270","2",frei,Holstenwall 12A,N53.553342 E9.976922,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.004,53.6,"434","2",belegt,Fiefstücken 8,N53.599830 E10.003740,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.038,53.688,"1206","2",teilweise belegt,Mittelstraße 39,N53.687850 E10.037810,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.852,53.551,"407","2",frei,Am Internationalen Seegerichtshof 2,N53.551470 E9.852220,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.114,53.653,"301","2",belegt,Waldweg 4,N53.653350 E10.114020,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.931,53.554,"619","2",frei,Hohenesch 50,N53.554339 E9.930795,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.961,53.572,"287","2",teilweise belegt,Von-der-Tann-Straße 9,N53.571906 E9.960710,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.964,53.58,"518","2",frei,Gärtnerstraße 86,N53.580240 E9.964100,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.077,53.579,"578","2",teilweise belegt,Walddörferstraße 110,N53.579440 E10.076880,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.993,53.567,"534","2",frei,Heimhuder Straße 38,N53.566752 E9.992543,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.0,53.586,"561","2",teilweise belegt,Willistraße 11,N53.586140 E9.999740,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.052,53.579,"410","2",frei,Dehnhaide 111,N53.579090 E10.051520,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.033,53.583,"514","2",frei,Schleidenstr. 6,N53.583220 E10.033450,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.961,53.572,"287","2",teilweise belegt,Von-der-Tann-Straße 9,N53.571906 E9.960710,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.976,53.571,"525","2",frei,Kielortallee 1,N53.570630 E9.976050,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.572,"449","2",teilweise belegt,Bogenstraße 13,N53.572100 E9.976170,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.945,53.547,"576","2",frei,Schleestraße 5,N53.547203 E9.945393,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.555,"484","2",frei,Gilbertstraße 63,N53.555000 E9.955720,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.953,53.578,"016","3",frei,Eichenstraße 90,N53.577910 E9.953320,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.986,53.466,"627","2",belegt,Veritaskai 3,N53.466260 E9.986480,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.019,53.548,"630","2",frei,Nagelsweg 33,N53.547560 E10.019214,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.016,53.572,"653","2",belegt,Hofweg 44,N53.572004 E10.016098,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.008,53.705,"1207","2",teilweise belegt,Marktplatz 8,N53.704650 E10.008260,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.919,53.565,"015","3",belegt,Bornkampsweg 17,N53.565450 E9.918530,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.048,53.569,"661","2",frei,Schellingstraße 23,N53.569286 E10.047905,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.997,53.731,"1214","2",teilweise belegt,Pestalozzistraße 1,N53.731500 E9.996610,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.98,53.683,"1215","2",teilweise belegt,Achternfelde 5,N53.682600 E9.979680,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.008,53.554,"208","2",teilweise belegt,Heidi-Kabel-Platz 1,N53.554492 E10.007712,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.991,53.557,"478","2",frei,Fehlandtstraße 6,N53.556980 E9.991480,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.919,53.565,"015","3",belegt,Bornkampsweg 17,N53.565450 E9.918530,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.24,53.677,"9204","2",teilweise belegt,Am Alten Markt 12,N53.677218 E10.239538,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.978,53.548,"081","3",teilweise belegt,Englische Planke 16,N53.547800 E9.978130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.951,53.619,"077","3",teilweise belegt,Tibarg 24,N53.618960 E9.951220,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.99,53.573,"043","3",teilweise belegt,Hallerstraße 85,N53.572810 E9.990070,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.991,53.605,"384","2",frei,Orchideenstieg 14,N53.605270 E9.990560,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.017,53.586,"586","2",frei,Semperstraße 43,N53.586203 E10.016561,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.919,53.632,"674","2",frei,Wählingsallee 15,N53.631516 E9.918798,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.982,53.579,"387","2",frei,Innocentiastraße 58,N53.579210 E9.982310,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.079,53.581,"066","3",frei,Auf dem Königslande 51,N53.581100 E10.079390,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.227,53.485,"458","2",frei,August-Bebel-Straße 73,N53.484620 E10.226990,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.999,53.711,"1200","2",teilweise belegt,Ulzburger Straße 353,N53.711290 E9.999290,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.003,53.602,"666","2",frei,Krochmannstraße 53,N53.601548 E10.002819,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.907,53.566,"063","3",frei,Von-Sauer-Straße 27,N53.565620 E9.906730,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.102,53.598,"036","3",frei,Traberweg 2,N53.597620 E10.101780,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.457,"429","2",frei,Großmoorring 11,N53.457090 E10.006060,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.035,53.563,"418","2",frei,Landwehr 2,N53.563110 E10.035380,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.985,53.604,"277","2",frei,Borsteler Chaussee 17,N53.604090 E9.984919,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.815,53.563,"558","2",frei,Erik-Blumenfeld-Platz 7,N53.563321 E9.815094,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.919,53.558,"528","2",teilweise belegt,Hohenzollernring 117,N53.558450 E9.919350,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.985,53.57,"446","2",frei,Grindelhof 58,N53.569810 E9.984590,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.069,53.603,"295","2",frei,Moosrosenweg 18,N53.603208 E10.069108,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.949,53.57,"328","2",teilweise belegt,Pinneberger Weg 2,N53.569980 E9.948950,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.97,53.464,"250","2",frei,Schwarzenbergstraße 95,N53.463805 E9.970200,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.005,53.588,"683","2",teilweise belegt,Dorotheenstraße 134,N53.587793 E10.004766,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.044,53.575,"314","2",teilweise belegt,Von-Essen-Straße 75,N53.575095 E10.044319,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.952,53.564,"626","2",frei,Arnkielstraße 3,N53.564032 E9.952473,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.993,53.539,"904","4",teilweise belegt,Am Strandkai 1,N53.539280 E9.992880,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.059,53.577,"054","3",frei,Dithmarscher Straße 9,N53.577300 E10.059480,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.898,53.551,"502","2",frei,Liebermannstraße 41,N53.550710 E9.897640,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.994,53.458,"246","2",teilweise belegt,Zum Handwerkszentrum 1,N53.457804 E9.994314,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.206,53.496,"296","2",frei,Lohbrügger Landstraße 6,N53.495595 E10.205528,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.048,53.571,"565","2",frei,Eilbeker Weg 73,N53.570726 E10.047845,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.852,53.551,"407","2",frei,Am Internationalen Seegerichtshof 2,N53.551470 E9.852220,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.873,53.536,"426","2",frei,Finksweg 19,N53.536320 E9.873450,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.954,53.56,"435","2",frei,Bei der Johanniskirche 16,N53.559890 E9.954060,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.873,53.536,"426","2",frei,Finksweg 19,N53.536320 E9.873450,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.213,53.486,"297","2",belegt,Neuer Weg 21,N53.485806 E10.213129,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.095,53.652,"205","2",frei,Stormarnplatz 1,N53.651655 E10.094765,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.989,53.545,"374","2",frei,Mattentwiete 6,N53.545450 E9.989330,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.087,53.66,"007","3",frei,Poppenbüttler Markt 12,N53.660380 E10.086780,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.016,53.568,"070","3",teilweise belegt,Eduard-Rhein-Ufer 1,N53.567780 E10.016230,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.059,53.577,"054","3",frei,Dithmarscher Straße 9,N53.577300 E10.059480,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.633,"038","3",teilweise belegt,Flughafenstr. 1,N53.632620 E10.006390,AC,,Typ2,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.021,53.571,"292","2",teilweise belegt,Averhoffstraße 3A,N53.570810 E10.021000,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.048,53.569,"661","2",frei,Schellingstraße 23,N53.569286 E10.047905,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.036,53.575,"005","3",teilweise belegt,Wagnerstraße 2,N53.575120 E10.036460,DC,,CHAdeMO,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.926,53.547,"507","2",frei,Große Brunnenstraße 7,N53.547270 E9.925530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.019,53.567,"414","2",teilweise belegt,Papenhuderstr. 33,N53.566980 E10.018950,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.0,53.586,"561","2",teilweise belegt,Willistraße 11,N53.586140 E9.999740,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.949,53.559,"397","2",frei,Holstenstraße 156,N53.559071 E9.948590,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.914,53.546,"201","2",frei,Elbchaussee 139,N53.546009 E9.914352,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.165,53.486,"495","2",frei,Margit-Zinke Straße 32,N53.486410 E10.165130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.988,53.449,"072","3",frei,Winsener Straße 36,N53.448830 E9.987870,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+13.464,51.154,"7283","2",teilweise belegt,Talstraße 10,N51.154400 E13.463650,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.026,53.55,"702","2",frei,Frankenstraße 35,N53.549576 E10.026147,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.937,53.549,"551","2",frei,Schmarjestraße 50,N53.549039 E9.936738,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.019,53.614,"669","2",frei,Sengelmannstraße 67,N53.614282 E10.018971,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.129,53.671,"433","2",frei,Volksdorfer Damm 252,N53.671020 E10.129310,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.019,53.58,"524","2",teilweise belegt,Herderstr. 37,N53.580020 E10.018950,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.912,53.559,"311","2",frei,Friedensallee 265,N53.559076 E9.911802,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.581,"237","2",frei,Jungfrauenthal 8,N53.581334 E9.986575,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.988,53.594,"386","2",frei,Lokstedter Weg 3,N53.594430 E9.987560,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.1,53.644,"656","2",frei,Saseler Chaussee 109,N53.644017 E10.099840,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.988,53.686,"1225","2",teilweise belegt,Lütjenmoor 15,N53.685780 E9.988380,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.981,53.459,"050","3",teilweise belegt,Harburger Rathausstraße 37,N53.458990 E9.981150,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.064,53.587,"671","2",frei,Tondernstraße 24,N53.587491 E10.064361,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.552,"023","3",frei,Kleine Freiheit 42,N53.551820 E9.956250,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.98,53.586,"353","2",belegt,Curschmannstraße 10,N53.585760 E9.979940,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.018,53.602,"075","3",teilweise belegt,New-York-Ring 1,N53.602180 E10.018180,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.023,53.548,"363","2",teilweise belegt,Hammerbrookstraße 63,N53.548000 E10.023260,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.044,53.592,"284","2",frei,Fuhlsbüttler Straße 149,N53.591820 E10.043950,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.905,53.549,"548","2",frei,Trenkerweg 2,N53.549350 E9.904910,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.997,53.598,"655","2",teilweise belegt,Alsterdorfer Straße 65,N53.598445 E9.996780,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.059,53.577,"054","3",frei,Dithmarscher Straße 9,N53.577300 E10.059480,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.0,53.618,"515","2",teilweise belegt,Sportallee 81,N53.617600 E10.000380,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.211,53.513,"315","2",frei,Reinbeker Redder 283,N53.513277 E10.211269,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.024,53.569,"002","3",frei,Mundsburger Damm 47,N53.568608 E10.024193,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.022,53.561,"582","2",teilweise belegt,Ifflandstraße 22,N53.560500 E10.022470,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.179,53.487,"367","2",frei,Rahel-Varnhagen-Weg 38,N53.486830 E10.179260,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.942,53.58,"471","2",belegt,Sartoriusstraße 17,N53.579830 E9.942350,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.016,53.572,"653","2",belegt,Hofweg 44,N53.572004 E10.016098,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.889,53.56,"657","2",frei,Beselerplatz 8,N53.560093 E9.888628,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.959,53.579,"637","2",frei,Ottersbekallee 31,N53.579181 E9.958507,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.989,53.568,"030","3",frei,Rothenbaumchaussee 60,N53.567700 E9.988590,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.999,53.55,"207","2",teilweise belegt,Kattrepel 20,N53.549675 E9.999197,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.025,53.561,"681","2",belegt,Mühlendamm 29,N53.561396 E10.025129,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.144,53.669,"417","2",frei,Volksdorfer Damm 186,N53.669190 E10.143530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.464,"503","2",frei,Milchgrund 1,N53.464140 E9.956040,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.926,53.547,"507","2",frei,Große Brunnenstraße 7,N53.547270 E9.925530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.981,53.546,"047","3",belegt,Schaarsteinweg 4,N53.546010 E9.981080,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.96,53.557,"037","3",frei,Schmidt-Rottluff-Weg 13,N53.556980 E9.959610,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.968,53.578,"388","2",frei,Mansteinstraße 22,N53.577690 E9.967780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.02,53.565,"409","2",frei,Armgartstraße 14,N53.565220 E10.020030,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.008,53.553,"091","3",teilweise belegt,Kirchenallee 56,N53.552950 E10.008180,AC,,Typ2,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.99,53.573,"043","3",teilweise belegt,Hallerstraße 85,N53.572810 E9.990070,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.047,53.552,"278","2",teilweise belegt,Eiffestraße 450,N53.552050 E10.046934,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.989,53.568,"030","3",frei,Rothenbaumchaussee 60,N53.567700 E9.988590,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.997,53.549,"014","3",teilweise belegt,Alter Fischmarkt 11,N53.548650 E9.996970,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.051,53.558,"465","2",teilweise belegt,Carl Petersen Straße 102,N53.557540 E10.050650,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.981,53.546,"047","3",belegt,Schaarsteinweg 4,N53.546010 E9.981080,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+9.967,53.569,"401","2",teilweise belegt,Moorkamp 3,N53.569470 E9.966610,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.879,53.568,"325","2",frei,Groß Flottbeker Straße 72,N53.568028 E9.878820,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.979,53.55,"241","2",teilweise belegt,Neuer Steinweg 1,N53.550382 E9.979475,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.983,53.548,"545","2",teilweise belegt,Herrengraben 74,N53.548090 E9.983210,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.968,53.458,"322","2",frei,Gazertstraße 69,N53.458060 E9.968110,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.958,53.553,"477","2",frei,Paul-Roosen Straße 22,N53.553120 E9.958370,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.978,53.575,"217","2",frei,Grindelberg 66,N53.575300 E9.977718,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.991,53.591,"438","2",belegt,Schrammsweg 29,N53.590750 E9.991130,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.981,53.555,"221","2",teilweise belegt,Dragonerstall 13,N53.555485 E9.981444,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.971,53.571,"520","2",teilweise belegt,Gustav-Falke-Straße 30,N53.570860 E9.971270,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.244,53.661,"9203","2",teilweise belegt,Am Aalfang 12,N53.661368 E10.244113,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.042,53.55,"685","2",frei,Grevenweg 88,N53.550424 E10.041939,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.236,53.673,"9200","2",teilweise belegt,Manfred Samusch Straße 5,N53.672950 E10.236111,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.095,53.652,"205","2",frei,Stormarnplatz 1,N53.651655 E10.094765,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.141,53.626,"416","2",frei,Hermann-Balk-Straße 124,N53.625580 E10.140730,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.963,53.466,"275","2",teilweise belegt,Nobleestraße 3,N53.466082 E9.963175,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.025,53.602,"283","2",belegt,Überseering 5,N53.602272 E10.024874,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.994,53.496,"488","2",teilweise belegt,Kurdamm 19,N53.496110 E9.994090,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.927,53.553,"376","2",frei,Am Born 6B,N53.553080 E9.926600,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.888,53.549,"540","2",frei,Bernadottestraße 212,N53.548510 E9.888410,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.036,53.575,"005","3",teilweise belegt,Wagnerstraße 2,N53.575120 E10.036460,AC,,Typ2,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.987,53.596,"320","2",frei,Schubackstraße 4,N53.596439 E9.987231,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.997,53.598,"655","2",teilweise belegt,Alsterdorfer Straße 65,N53.598445 E9.996780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.942,53.547,"658","2",frei,Behnstraße 8,N53.546656 E9.942411,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.568,"448","2",teilweise belegt,Schlüterstraße 50,N53.567940 E9.986560,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+14.822,51.293,"7020","3",teilweise belegt,Zinzendorfplatz 2,N51.293392 E14.822248,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.069,53.583,"439","2",frei,Straßburger Straße 65,N53.582800 E10.068830,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.038,53.561,"028","3",frei,Marienthaler Straße 1,N53.560620 E10.038330,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.552,"023","3",frei,Kleine Freiheit 42,N53.551820 E9.956250,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.993,53.549,"234","2",frei,Große Bäckerstraße 8,N53.548933 E9.993134,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.107,53.547,"547","2",teilweise belegt,Schiffbeker Weg 83,N53.547040 E10.106530,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.997,53.552,"901","2",belegt,Hermannstraße 13,N53.552021 E9.996826,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.051,53.548,"466","2",teilweise belegt,Süderstraße 288,N53.547620 E10.051320,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.648,"001","3",frei,Krohnstieg 71,N53.648386 E10.006262,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.198,53.489,"496","2",frei,Kurt-A.-Körber-Chaussee 35,N53.488840 E10.197570,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.013,53.52,"240","2",frei,Harburger Chaussee 17,N53.520476 E10.013471,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.919,53.635,"472","2",belegt,Frohmestraße 16,N53.634620 E9.919184,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.958,53.6,"389","2",frei,Grelckstraße 2,N53.599900 E9.958050,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.982,53.463,"273","2",frei,Schlossmühlendamm 23,N53.463009 E9.981628,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.986,53.553,"570","2",frei,Amelungstraße 5,N53.552762 E9.985674,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.975,53.567,"546","2",frei,Laufgraben 31,N53.567000 E9.975300,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.984,53.594,"537","2",teilweise belegt,Tarpenbekstraße 47,N53.593980 E9.983860,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.02,53.565,"409","2",frei,Armgartstraße 14,N53.565220 E10.020030,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.052,53.579,"410","2",frei,Dehnhaide 111,N53.579090 E10.051520,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.002,53.593,"076","3",belegt,Grasweg 6,N53.592820 E10.002150,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.018,53.602,"075","3",teilweise belegt,New-York-Ring 1,N53.602180 E10.018180,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.125,53.588,"211","2",teilweise belegt,Stein-Hardenberg-Straße 85,N53.588192 E10.124840,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.989,53.707,"1226","2",teilweise belegt,Buckhörner Moor 110,N53.707062 E9.988827,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.995,53.565,"553","2",frei,Fontenay 1,N53.564928 E9.995237,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.922,53.552,"378","2",frei,Holstentwiete 19,N53.552380 E9.921880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.951,53.618,"259","2",frei,Garstedter Weg 2,N53.617892 E9.951152,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.144,53.669,"417","2",frei,Volksdorfer Damm 186,N53.669190 E10.143530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.98,53.683,"1215","2",teilweise belegt,Achternfelde 5,N53.682600 E9.979680,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.167,53.649,"012","3",belegt,Wiesenhöfen 2,N53.648780 E10.167440,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.1,53.644,"656","2",frei,Saseler Chaussee 109,N53.644017 E10.099840,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.964,53.562,"492","2",teilweise belegt,Bartelsstraße 41,N53.562410 E9.964180,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.814,53.576,"323","2",frei,Heidrehmen 27,N53.576412 E9.813505,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.094,53.652,"903","4",teilweise belegt,Stormarnplatz 3,N53.651740 E10.094320,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.013,53.559,"480","2",frei,Schmilinskystraße 32,N53.559020 E10.012920,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.648,"001","3",frei,Krohnstieg 71,N53.648386 E10.006262,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.158,53.49,"298","2",frei,Walter-Rudolphi-Weg 16,N53.489639 E10.157795,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.126,53.584,"020","3",frei,Jenfelder Allee 80,N53.584110 E10.126260,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.606,"381","2",teilweise belegt,Niendorfer Straße 64,N53.606070 E9.956170,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.018,53.712,"1223","2",teilweise belegt,Stormarnstraße 55,N53.711750 E10.017930,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.019,53.523,"485","2",teilweise belegt,Katenweide 1,N53.523060 E10.018930,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.985,53.557,"080","3",frei,Drehbahn 13,N53.556520 E9.984960,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.813,53.562,"651","2",frei,Godeffroystraße 48,N53.562319 E9.812606,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.047,53.552,"278","2",teilweise belegt,Eiffestraße 450,N53.552050 E10.046934,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.863,53.559,"214","2",frei,Ohnhorststraße 18,N53.558802 E9.863475,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.996,53.675,"227","2",belegt,Essener Bogen 1,N53.674787 E9.996345,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.997,53.549,"014","3",teilweise belegt,Alter Fischmarkt 11,N53.548650 E9.996970,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.964,53.58,"518","2",frei,Gärtnerstraße 86,N53.580240 E9.964100,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.926,53.545,"447","2",teilweise belegt,Neumühlen 3,N53.544690 E9.925940,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.005,53.549,"267","2",belegt,Altstädter Straße 2,N53.549381 E10.004708,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.974,53.581,"431","2",teilweise belegt,Hoheluftchaussee 52,N53.580820 E9.973580,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.977,53.577,"533","2",frei,Schlankreye 40,N53.577080 E9.977100,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.941,53.575,"583","2",teilweise belegt,Armbruststraße 18,N53.574780 E9.941380,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.019,53.567,"414","2",teilweise belegt,Papenhuderstr. 33,N53.566980 E10.018950,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.981,53.571,"354","2",frei,Heinrich-Barth-Straße 18,N53.571390 E9.981220,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.987,53.574,"512","2",belegt,Hansastraße 28,N53.574340 E9.986540,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.815,53.563,"558","2",frei,Erik-Blumenfeld-Platz 7,N53.563321 E9.815094,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.876,53.474,"373","2",frei,Striepenweg 41,N53.473660 E9.875880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.199,53.501,"460","2",frei,Lohbrügger Landstraße 73A,N53.500530 E10.198920,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.978,53.594,"481","2",frei,Geschwister-Scholl-Straße 120,N53.594440 E9.978340,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.601,"269","2",frei,Lattenkamp 79,N53.600546 E9.994941,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.919,53.558,"528","2",teilweise belegt,Hohenzollernring 117,N53.558450 E9.919350,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.026,53.55,"702","2",frei,Frankenstraße 35,N53.549576 E10.026147,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.974,53.668,"1210","2",teilweise belegt,Niendorfer Straße 143,N53.667770 E9.974250,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.106,53.569,"302","2",frei,Holstenhofweg 85,N53.568510 E10.106190,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.562,"306","2",teilweise belegt,Lagerstraße 32,N53.562469 E9.967275,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.014,53.548,"082","3",teilweise belegt,Repsoldstraße 54,N53.548330 E10.013670,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.046,53.585,"680","2",frei,Maurienstraße 13,N53.585399 E10.045834,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.931,53.584,"489","2",frei,Warnstedtstraße 10,N53.583770 E9.931430,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.201,53.493,"272","2",teilweise belegt,Ulmenliet 20,N53.493437 E10.201291,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.988,53.449,"072","3",frei,Winsener Straße 36,N53.448830 E9.987870,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.913,53.596,"623","2",teilweise belegt,Jacobsenweg 4,N53.595677 E9.913470,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.011,53.683,"1220","2",teilweise belegt,Segeberger Chaussee 74A,N53.682890 E10.010950,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.04,53.556,"463","2",frei,Burgstraße 12,N53.556250 E10.040330,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.528,"574","2",teilweise belegt,Indiastraße 1,N53.527960 E9.994830,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.018,53.552,"248","2",teilweise belegt,Kurt-Schumacher-Allee 10,N53.552208 E10.018090,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.983,53.605,"383","2",teilweise belegt,Borsteler Chaussee 45,N53.605190 E9.982970,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.107,53.559,"369","2",frei,Manshardtstraße 117,N53.559160 E10.107490,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.025,53.628,"239","2",frei,Erdkampsweg 20,N53.628240 E10.024542,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.125,53.588,"211","2",teilweise belegt,Stein-Hardenberg-Straße 85,N53.588192 E10.124840,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.995,53.59,"644","2",teilweise belegt,Lichtwarkstraße 10,N53.589943 E9.994567,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.093,53.656,"900","1",teilweise belegt,Heegbarg 31,N53.655534 E10.092595,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.991,53.581,"652","2",frei,Harvestehunder Weg 105,N53.580521 E9.991418,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.965,53.57,"263","2",belegt,Hohe Weide 10,N53.570304 E9.964881,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.0,53.602,"648","2",frei,Braamkamp 5,N53.601637 E9.999989,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.985,53.463,"380","2",belegt,Karnapp 25,N53.463220 E9.984760,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.943,53.555,"654","2",frei,Schumacherstraße 109,N53.555139 E9.942609,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.951,53.619,"077","3",teilweise belegt,Tibarg 24,N53.618960 E9.951220,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.983,53.545,"355","2",belegt,Steinhöft 11,N53.544874 E9.982738,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.211,53.513,"315","2",frei,Reinbeker Redder 283,N53.513277 E10.211269,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.96,53.564,"309","2",frei,Schulterblatt 112,N53.564330 E9.959734,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.929,53.629,"027","3",frei,Sellhopsweg 2,N53.629264 E9.929125,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.107,53.559,"369","2",frei,Manshardtstraße 117,N53.559160 E10.107490,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.938,53.562,"614","2",teilweise belegt,Eva-Rühmkopf-Straße 11,N53.561680 E9.938220,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.949,53.551,"539","2",frei,Louise-Schröder-Straße 26,N53.550990 E9.949130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.938,53.562,"614","2",teilweise belegt,Eva-Rühmkopf-Straße 11,N53.561680 E9.938220,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.96,53.56,"291","2",teilweise belegt,Juliusstraße 2,N53.560465 E9.959802,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.923,53.551,"432","2",frei,Eulenstraße 70,N53.550960 E9.923310,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.994,53.7,"1204","2",teilweise belegt,Buchenweg 101,N53.699510 E9.993560,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.003,53.602,"666","2",frei,Krochmannstraße 53,N53.601548 E10.002819,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.014,53.582,"288","2",belegt,Schinkelstraße 1,N53.581918 E10.013520,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.998,53.544,"243","2",teilweise belegt,Osakaallee 6,N53.543508 E9.997992,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.939,53.552,"017","3",frei,Große Bergstraße 262,N53.552100 E9.938640,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.983,53.545,"355","2",belegt,Steinhöft 11,N53.544874 E9.982738,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.873,53.592,"312","2",frei,Luruper Hauptstraße 138,N53.591702 E9.872562,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.007,53.589,"493","2",frei,Opitzstraße 17,N53.589430 E10.007290,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.97,53.577,"304","2",teilweise belegt,Gneisenaustraße 1,N53.577105 E9.970213,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.001,53.567,"442","2",teilweise belegt,Alte Rabenstraße 32,N53.567390 E10.000710,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.019,53.577,"399","2",teilweise belegt,Schenkendorfstr. 37,N53.577090 E10.018780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.01,53.593,"406","2",teilweise belegt,Grasweg 70,N53.593450 E10.010130,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.935,53.549,"552","2",frei,Museumstraße 23,N53.549220 E9.934800,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.569,"401","2",teilweise belegt,Moorkamp 3,N53.569470 E9.966610,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.948,53.564,"636","2",frei,Düppelstraße 23,N53.564417 E9.947559,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.965,53.57,"263","2",belegt,Hohe Weide 10,N53.570304 E9.964881,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.946,53.581,"479","2",frei,Hartwig-Hesse-Straße 3,N53.580650 E9.946360,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.968,53.578,"388","2",frei,Mansteinstraße 22,N53.577690 E9.967780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.557,"059","3",belegt,Sievekingplatz 2,N53.556500 E9.975970,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.988,53.686,"1225","2",teilweise belegt,Lütjenmoor 15,N53.685780 E9.988380,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.978,53.575,"217","2",frei,Grindelberg 66,N53.575300 E9.977718,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.962,53.554,"516","2",frei,Brigittenstr. 1,N53.554190 E9.961860,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.035,53.605,"567","2",belegt,Andreas-Knack-Ring 2,N53.604642 E10.034874,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.983,53.461,"245","2",frei,Großer Schippsee 18,N53.460619 E9.983370,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.087,53.66,"007","3",frei,Poppenbüttler Markt 12,N53.660380 E10.086780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.074,53.575,"052","3",belegt,Wandsbeker Zollstraße 15,N53.574780 E10.074180,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.942,53.547,"658","2",frei,Behnstraße 8,N53.546656 E9.942411,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.98,53.582,"268","2",teilweise belegt,Lehmweg 27,N53.581782 E9.979558,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.988,53.735,"1209","2",teilweise belegt,Beim Umspannwerk 0,N53.734640 E9.987980,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.069,53.574,"564","2",teilweise belegt,Litzowstieg 6,N53.573570 E10.068770,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.982,53.453,"584","2",frei,Gerade Straße 22,N53.452880 E9.982070,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.014,53.548,"082","3",teilweise belegt,Repsoldstraße 54,N53.548330 E10.013670,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.112,53.602,"282","2",frei,Ivo-Hauptmann-Ring 9,N53.601705 E10.112279,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.201,53.493,"272","2",teilweise belegt,Ulmenliet 20,N53.493437 E10.201291,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.547,"068","3",teilweise belegt,Lange Straße 6,N53.547350 E9.956280,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.176,53.483,"454","2",frei,Henriette-Herz-Ring 30,N53.482570 E10.176060,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.014,53.548,"082","3",teilweise belegt,Repsoldstraße 54,N53.548330 E10.013670,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.854,53.584,"274","2",belegt,Bornheide 10,N53.584031 E9.854263,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.025,53.565,"361","2",teilweise belegt,Uhlandstraße 4,N53.565140 E10.025070,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.98,53.565,"650","2",frei,Durchschnitt 27,N53.564665 E9.979653,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.002,53.597,"491","2",belegt,Krochmannstraße 2,N53.597040 E10.002010,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.99,53.556,"255","2",frei,Büschstraße 12,N53.556103 E9.989969,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.161,53.604,"437","2",frei,Rahlstedter Straße 154,N53.604360 E10.160620,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.161,53.604,"437","2",frei,Rahlstedter Straße 154,N53.604360 E10.160620,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.094,53.588,"385","2",teilweise belegt,Friedrich-Ebert-Damm 120,N53.587860 E10.093890,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.956,53.464,"503","2",frei,Milchgrund 1,N53.464140 E9.956040,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.203,53.483,"703","2",frei,Glasbläserhöfe 14,N53.482838 E10.202717,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.093,53.654,"290","2",frei,Heegbarg 12,N53.653650 E10.092580,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.009,53.585,"704","2",frei,Moorfurthweg 13,N53.585353 E10.008771,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.146,53.604,"046","3",frei,Bargteheider Straße 83,N53.603680 E10.145640,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.959,53.612,"396","2",frei,Papenreye 11,N53.612360 E9.959220,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.016,53.589,"226","2",frei,Borgweg 10,N53.589499 E10.015993,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.997,53.682,"1208","2",teilweise belegt,Am Tarpenufer 10,N53.681500 E9.996710,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.158,53.49,"298","2",frei,Walter-Rudolphi-Weg 16,N53.489639 E10.157795,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.094,53.588,"385","2",teilweise belegt,Friedrich-Ebert-Damm 120,N53.587860 E10.093890,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.21,53.503,"453","2",teilweise belegt,Habermannstraße 37,N53.502900 E10.210470,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.031,53.57,"053","3",teilweise belegt,Finkenau 11,N53.570450 E10.031160,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.999,53.711,"1200","2",teilweise belegt,Ulzburger Straße 353,N53.711290 E9.999290,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.986,53.553,"570","2",frei,Amelungstraße 5,N53.552762 E9.985674,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.96,53.557,"037","3",frei,Schmidt-Rottluff-Weg 13,N53.556980 E9.959610,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.974,53.547,"668","2",frei,Venusberg 34,N53.546886 E9.973986,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.001,53.69,"1203","2",teilweise belegt,Am Hallenbad 14,N53.689950 E10.001290,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.564,"473","2",frei,Langenfelder Straße 18,N53.563730 E9.955680,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.867,53.568,"639","2",belegt,Heinrich-Plett-Straße 14,N53.567973 E9.866507,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.945,53.547,"576","2",frei,Schleestraße 5,N53.547203 E9.945393,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.874,53.562,"573","2",frei,Müllenhoffweg 54,N53.561660 E9.873680,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.957,53.557,"049","3",teilweise belegt,Thadenstraße 120,N53.557030 E9.956660,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.058,53.61,"390","2",frei,Cesar-Klein-Ring 2,N53.609960 E10.058010,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.874,53.554,"430","2",teilweise belegt,Hochrad 24,N53.554190 E9.874060,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.928,53.557,"693","2",teilweise belegt,Bahrenfelder Straße 247,N53.557365 E9.928141,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.984,53.684,"1205","2",teilweise belegt,Berliner Allee 25,N53.684320 E9.983880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.979,53.457,"377","2",teilweise belegt,Hastedtstraße 1,N53.457180 E9.978540,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.24,53.677,"9204","2",teilweise belegt,Am Alten Markt 12,N53.677218 E10.239538,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.059,53.567,"235","2",teilweise belegt,Pappelallee 41,N53.567386 E10.059232,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.029,53.568,"413","2",frei,Birkenau 24,N53.568440 E10.028710,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.55,"577","2",frei,Rathausstraße 6,N53.549964 E9.994737,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.218,53.487,"247","2",frei,Schulenbrooksweg 1,N53.486988 E10.218075,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.146,53.604,"046","3",frei,Bargteheider Straße 83,N53.603680 E10.145640,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.001,53.555,"220","2",frei,Glockengießerwall 26,N53.555269 E10.001099,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.054,53.607,"649","2",frei,Schwarzer Weg 3,N53.607054 E10.053962,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.01,53.593,"406","2",teilweise belegt,Grasweg 70,N53.593450 E10.010130,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.913,53.551,"562","2",teilweise belegt,Am Rathenaupark 16,N53.550940 E9.912720,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.919,53.565,"015","3",belegt,Bornkampsweg 17,N53.565450 E9.918530,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.976,53.572,"449","2",teilweise belegt,Bogenstraße 13,N53.572100 E9.976170,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.028,53.578,"411","2",frei,Flotowstrasse 3,N53.577880 E10.027530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.996,53.675,"227","2",belegt,Essener Bogen 1,N53.674787 E9.996345,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.879,53.568,"325","2",frei,Groß Flottbeker Straße 72,N53.568028 E9.878820,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.951,53.618,"259","2",frei,Garstedter Weg 2,N53.617892 E9.951152,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.232,53.672,"9205","2",teilweise belegt,Stormarnstraße 35,N53.672432 E10.231814,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.978,53.594,"481","2",frei,Geschwister-Scholl-Straße 120,N53.594440 E9.978340,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.948,53.561,"628","2",frei,Holstenplatz 14,N53.561321 E9.948480,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.582,"519","2",teilweise belegt,Gärtnerstraße 41,N53.582400 E9.966860,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.977,53.577,"533","2",frei,Schlankreye 40,N53.577080 E9.977100,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.994,53.496,"488","2",teilweise belegt,Kurdamm 19,N53.496110 E9.994090,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.031,53.646,"289","2",frei,Lademannbogen 132,N53.646434 E10.030759,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.005,53.581,"391","2",teilweise belegt,Wentzelstraße 2,N53.580650 E10.005170,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.233,53.479,"427","2",frei,Holtenklinker Straße 137,N53.479330 E10.232870,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.558,"223","2",frei,An der Alster 65,N53.558132 E10.005663,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.949,53.551,"539","2",frei,Louise-Schröder-Straße 26,N53.550990 E9.949130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.456,"400","2",frei,Eißendorfer Straße 189,N53.455970 E9.956130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.928,53.557,"693","2",teilweise belegt,Bahrenfelder Straße 247,N53.557365 E9.928141,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.581,"031","3",teilweise belegt,Straßenbahnring 17,N53.580770 E9.975620,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.023,53.548,"363","2",teilweise belegt,Hammerbrookstraße 63,N53.548000 E10.023260,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.949,53.58,"264","2",frei,Stellinger Weg 37,N53.579727 E9.948501,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.019,53.548,"630","2",frei,Nagelsweg 33,N53.547560 E10.019214,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.976,53.557,"059","3",belegt,Sievekingplatz 2,N53.556500 E9.975970,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.963,53.557,"032","3",belegt,Beim Grünen Jäger 8,N53.557150 E9.963180,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.049,53.63,"444","2",frei,Sodenkamp 8,N53.630350 E10.049000,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.898,53.551,"502","2",frei,Liebermannstraße 41,N53.550710 E9.897640,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.073,53.556,"487","2",teilweise belegt,Snitgerreihe 38,N53.556340 E10.072900,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.984,53.684,"1205","2",teilweise belegt,Berliner Allee 25,N53.684320 E9.983880,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.036,53.597,"415","2",teilweise belegt,Alte Wöhr 20,N53.597420 E10.036280,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.024,53.553,"057","3",belegt,Beim Berliner Tor 2,N53.553140 E10.023600,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.041,53.603,"294","2",teilweise belegt,Fuhlsbüttler Straße 387,N53.602574 E10.040627,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.964,53.566,"358","2",teilweise belegt,Weidenallee 21,N53.566480 E9.963940,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.007,53.589,"493","2",frei,Opitzstraße 17,N53.589430 E10.007290,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.076,53.564,"629","2",frei,Husarenhof 1,N53.564191 E10.075661,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.566,"535","2",teilweise belegt,Kleiner Schäferkamp 40,N53.566200 E9.967290,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.978,53.584,"500","2",frei,Löwenstraße 20,N53.583780 E9.978360,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.888,53.549,"540","2",frei,Bernadottestraße 212,N53.548510 E9.888410,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.049,53.568,"303","2",frei,Roßberg 2,N53.567830 E10.049440,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.994,53.706,"1202","2",teilweise belegt,Beamtenlaufbahn 2,N53.706460 E9.994170,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.981,53.555,"221","2",teilweise belegt,Dragonerstall 13,N53.555485 E9.981444,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.972,53.46,"452","2",frei,Am Irrgarten 8,N53.460230 E9.971790,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.036,53.558,"694","2",teilweise belegt,Bürgerweide 72,N53.558287 E10.036430,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.975,53.567,"546","2",frei,Laufgraben 31,N53.567000 E9.975300,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.985,53.504,"064","3",teilweise belegt,Veringstraße 173,N53.504270 E9.985390,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.031,53.579,"613","2",frei,Beethovenstraße 68,N53.579226 E10.031267,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.014,53.561,"428","2",frei,An der Alster 9,N53.561080 E10.013930,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.791,53.56,"510","2",teilweise belegt,Falkentaler Weg 4,N53.559930 E9.790760,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.962,53.574,"074","3",teilweise belegt,Eppendorfer Weg 86,N53.574240 E9.961880,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.997,53.549,"014","3",teilweise belegt,Alter Fischmarkt 11,N53.548650 E9.996970,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.98,53.463,"497","2",frei,Neue Straße 26,N53.462560 E9.979760,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.025,53.602,"283","2",belegt,Überseering 5,N53.602272 E10.024874,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.402,53.251,"13201","4",teilweise belegt,Bastionstraße 3,N53.251100 E10.402400,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.208,53.481,"421","2",frei,Curslacker Neuer Deich 45,N53.480560 E10.208010,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.022,53.561,"582","2",teilweise belegt,Ifflandstraße 22,N53.560500 E10.022470,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.206,53.496,"296","2",frei,Lohbrügger Landstraße 6,N53.495595 E10.205528,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.029,53.568,"413","2",frei,Birkenau 24,N53.568440 E10.028710,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.953,53.578,"016","3",frei,Eichenstraße 90,N53.577910 E9.953320,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.963,53.557,"032","3",belegt,Beim Grünen Jäger 8,N53.557150 E9.963180,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.001,53.567,"442","2",teilweise belegt,Alte Rabenstraße 32,N53.567390 E10.000710,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.006,53.648,"001","3",frei,Krohnstieg 71,N53.648386 E10.006262,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.002,53.597,"491","2",belegt,Krochmannstraße 2,N53.597040 E10.002010,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.992,53.588,"523","2",frei,Loogeplatz 2,N53.587780 E9.992180,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.028,53.545,"536","2",frei,Süderstraße 26,N53.544520 E10.027920,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.054,53.607,"649","2",frei,Schwarzer Weg 3,N53.607054 E10.053962,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.993,53.539,"904","4",teilweise belegt,Am Strandkai 1,N53.539280 E9.992880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.031,53.646,"289","2",frei,Lademannbogen 132,N53.646434 E10.030759,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.972,53.593,"559","2",teilweise belegt,Martinistraße 26,N53.592630 E9.971780,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.974,53.581,"431","2",teilweise belegt,Hoheluftchaussee 52,N53.580820 E9.973580,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.552,"065","3",frei,Enckeplatz 6,N53.552400 E9.976170,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.581,"237","2",frei,Jungfrauenthal 8,N53.581334 E9.986575,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.985,53.59,"224","2",teilweise belegt,Kümmellstraße 5,N53.590221 E9.985175,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.019,53.614,"669","2",frei,Sengelmannstraße 67,N53.614282 E10.018971,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.608,"324","2",frei,Alsterdorfer Straße 261,N53.607683 E10.006403,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.038,53.688,"1206","2",teilweise belegt,Mittelstraße 39,N53.687850 E10.037810,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.861,53.565,"420","2",teilweise belegt,Hemmingstedter Weg 130,N53.565030 E9.861010,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.996,53.594,"225","2",teilweise belegt,Bebelallee 1,N53.594247 E9.995713,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.904,53.591,"071","3",frei,Schnackenburgallee 153,N53.591269 E9.904259,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.914,53.546,"201","2",frei,Elbchaussee 139,N53.546009 E9.914352,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.958,53.57,"356","2",frei,Eppendorfer Weg 35,N53.570400 E9.957800,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.59,"644","2",teilweise belegt,Lichtwarkstraße 10,N53.589943 E9.994567,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.051,53.593,"550","2",frei,Tieloh 81,N53.593230 E10.051420,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.025,53.565,"361","2",teilweise belegt,Uhlandstraße 4,N53.565140 E10.025070,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.032,53.56,"350","2",frei,Angerstraße 11,N53.559970 E10.031970,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.957,53.557,"049","3",teilweise belegt,Thadenstraße 120,N53.557030 E9.956660,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.979,53.566,"307","2",teilweise belegt,Bundesstraße 35,N53.566112 E9.978813,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.027,53.626,"566","2",frei,Ratsmühlendamm 13,N53.626077 E10.027135,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.018,53.583,"579","2",frei,Gertigstraße 64,N53.582853 E10.018196,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.937,53.548,"530","2",frei,Königstraße 52,N53.547850 E9.937480,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.066,53.55,"505","2",frei,Howisch 5,N53.550340 E10.066030,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.402,53.251,"13201","4",teilweise belegt,Bastionstraße 3,N53.251100 E10.402400,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.56,"033","3",teilweise belegt,Sternstraße 68,N53.559840 E9.966910,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.929,53.629,"027","3",frei,Sellhopsweg 2,N53.629264 E9.929125,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.025,53.561,"681","2",belegt,Mühlendamm 29,N53.561396 E10.025129,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.052,53.603,"554","2",frei,Steilshooper Straße 260,N53.603280 E10.051920,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.14,53.628,"229","2",frei,Berner Heerweg 372,N53.628011 E10.140354,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.922,53.552,"378","2",frei,Holstentwiete 19,N53.552380 E9.921880,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.031,53.555,"467","2",frei,Klaus Groth Straße 42,N53.555290 E10.031040,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.939,53.562,"620","2",teilweise belegt,Eva-Rühmkorf-Straße 9,N53.561580 E9.938690,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.035,53.563,"418","2",frei,Landwehr 2,N53.563110 E10.035380,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.01,53.558,"490","2",frei,Gurlittstraße 31,N53.558070 E10.009850,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.106,53.569,"302","2",frei,Holstenhofweg 85,N53.568510 E10.106190,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.96,53.568,"305","2",teilweise belegt,Bellealliancestraße 40,N53.568036 E9.960359,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.97,53.558,"474","2",frei,Marktstr. 100,N53.558170 E9.969890,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.948,53.641,"436","2",teilweise belegt,Ernst-Mittelbach-Ring 53,N53.640760 E9.948410,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.847,53.574,"422","2",frei,Rugenbarg 9,N53.574340 E9.846620,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.031,53.555,"467","2",frei,Klaus Groth Straße 42,N53.555290 E10.031040,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.709,"1224","2",teilweise belegt,Alter Heidberg 1,N53.708660 E9.994940,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.854,53.584,"274","2",belegt,Bornheide 10,N53.584031 E9.854263,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.919,53.635,"472","2",belegt,Frohmestraße 16,N53.634620 E9.919184,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.002,53.593,"076","3",belegt,Grasweg 6,N53.592820 E10.002150,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.942,53.578,"445","2",frei,Langenfelder Damm 2,N53.578140 E9.941520,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.96,53.564,"309","2",frei,Schulterblatt 112,N53.564330 E9.959734,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.672,"1217","2",teilweise belegt,Rugenbarg 84,N53.672260 E9.986980,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.086,53.534,"508","2",frei,Liebigstraße 40,N53.534190 E10.086130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.05,53.577,"589","2",frei,Erika-Mann-Bogen 21,N53.576580 E10.049620,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.938,53.553,"212","2",teilweise belegt,Max-Brauer-Allee 54,N53.552634 E9.937653,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.103,53.54,"450","2",frei,Billstedter Hauptstraße 54,N53.539770 E10.103210,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.887,53.558,"526","2",belegt,Falckweg 3,N53.557980 E9.886780,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.017,53.588,"393","2",frei,Barmbeker Straße 62,N53.588410 E10.016530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.208,53.354,"3900","5",teilweise belegt,An der Kleinbahn 4,N53.353950 E10.208412,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.956,53.547,"068","3",teilweise belegt,Lange Straße 6,N53.547350 E9.956280,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.001,53.555,"220","2",frei,Glockengießerwall 26,N53.555269 E10.001099,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.994,53.706,"1202","2",teilweise belegt,Beamtenlaufbahn 2,N53.706460 E9.994170,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.938,53.553,"212","2",teilweise belegt,Max-Brauer-Allee 54,N53.552634 E9.937653,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.075,53.593,"321","2",frei,Lesserstraße 209,N53.593040 E10.074908,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.012,53.556,"482","2",frei,Zimmerpforte 2,N53.555680 E10.012130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.456,"400","2",frei,Eißendorfer Straße 189,N53.455970 E9.956130,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.905,53.549,"548","2",frei,Trenkerweg 2,N53.549350 E9.904910,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.208,53.354,"3900","5",teilweise belegt,An der Kleinbahn 4,N53.353950 E10.208412,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.052,53.586,"513","2",frei,Krausestr. 2,N53.585990 E10.051850,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.039,53.546,"262","2",teilweise belegt,Ausschläger Weg 100,N53.546401 E10.039314,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.985,53.57,"446","2",frei,Grindelhof 58,N53.569810 E9.984590,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.981,53.459,"050","3",teilweise belegt,Harburger Rathausstraße 37,N53.458990 E9.981150,AC,,Typ2,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.961,53.441,"499","2",belegt,Binnenfeld 22,N53.441200 E9.960900,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.943,53.554,"509","2",frei,Esmarchstraße 51,N53.554220 E9.943470,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.028,53.545,"536","2",frei,Süderstraße 26,N53.544520 E10.027920,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.006,53.608,"324","2",frei,Alsterdorfer Straße 261,N53.607683 E10.006403,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.027,53.582,"004","3",teilweise belegt,Weidestraße 122,N53.581572 E10.026825,AC,,Typ2,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.935,53.549,"552","2",frei,Museumstraße 23,N53.549220 E9.934800,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.968,53.458,"322","2",frei,Gazertstraße 69,N53.458060 E9.968110,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.867,53.536,"040","3",frei,Hein-Saß-Weg 17,N53.536030 E9.866920,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.576,"286","2",frei,Emilienstraße 11,N53.575611 E9.955522,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.017,53.551,"663","2",frei,Norderstraße 141,N53.550582 E10.017192,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.989,53.568,"030","3",frei,Rothenbaumchaussee 60,N53.567700 E9.988590,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.952,53.575,"216","2",teilweise belegt,Henriettenstraße 77,N53.575248 E9.951946,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.993,53.549,"234","2",frei,Große Bäckerstraße 8,N53.548933 E9.993134,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.923,53.551,"432","2",frei,Eulenstraße 70,N53.550960 E9.923310,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.991,53.591,"438","2",belegt,Schrammsweg 29,N53.590750 E9.991130,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.012,53.545,"042","3",belegt,Banksstraße 28,N53.544683 E10.012427,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.998,53.595,"405","2",frei,Alsterdorfer Straße 9,N53.595390 E9.998070,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.183,53.399,"572","2",frei,Zollenspieker Hauptdeich 146,N53.398740 E10.183030,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.115,53.608,"504","2",frei,Am Luisenhof 1,N53.607580 E10.115150,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.028,53.578,"411","2",frei,Flotowstrasse 3,N53.577880 E10.027530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.075,53.664,"425","2",frei,Langenhorner Straße-Ost 7,N53.663760 E10.074550,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.576,"286","2",frei,Emilienstraße 11,N53.575611 E9.955522,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.065,53.571,"056","3",teilweise belegt,Schloßstraße 8,N53.571140 E10.065180,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.985,53.504,"064","3",teilweise belegt,Veringstraße 173,N53.504270 E9.985390,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+13.473,51.163,"7284","2",teilweise belegt,Schulplatz 5,N51.163120 E13.473410,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.013,53.579,"365","2",frei,Körnerstraße 1,N53.579470 E10.012690,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.002,53.498,"441","2",frei,Neuenfelder Straße 19,N53.497900 E10.002170,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.979,53.755,"1216","2",teilweise belegt,Elfenhagen 62,N53.754700 E9.978800,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.926,53.556,"672","2",frei,Borselstraße 7,N53.556224 E9.925645,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.938,53.551,"203","2",frei,Schillerstraße 44,N53.550574 E9.938309,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.867,53.536,"040","3",frei,Hein-Saß-Weg 17,N53.536030 E9.866920,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.93,53.556,"351","2",teilweise belegt,Barnerstraße 41,N53.556440 E9.929560,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.025,53.573,"621","2",frei,Winterhuder Weg 42,N53.572552 E10.024547,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.989,53.564,"258","2",frei,Moorweidenstraße 22,N53.563920 E9.989072,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.079,53.551,"464","2",belegt,Bauerberg 2,N53.550660 E10.078790,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.998,53.72,"1219","2",teilweise belegt,Ulzburger Straße 362,N53.720310 E9.998310,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.938,53.551,"203","2",frei,Schillerstraße 44,N53.550574 E9.938309,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.88,53.565,"440","2",frei,Beselerstraße 29,N53.565190 E9.880470,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.211,53.514,"459","2",belegt,Harvighorster Weg 2,N53.514130 E10.211440,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.913,53.551,"562","2",teilweise belegt,Am Rathenaupark 16,N53.550940 E9.912720,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.215,53.488,"364","2",frei,Chrysanderstraße 31,N53.488120 E10.215300,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.975,53.589,"352","2",frei,Martinistraße 72,N53.588630 E9.975060,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.974,53.574,"581","2",frei,Bogenstraße 34,N53.573570 E9.974200,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.986,53.456,"317","2",frei,Wilstorfer Straße 58,N53.456060 E9.986262,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+14.822,51.293,"7020","3",teilweise belegt,Zinzendorfplatz 2,N51.293392 E14.822248,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.075,53.593,"321","2",frei,Lesserstraße 209,N53.593040 E10.074908,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.936,53.554,"326","2",belegt,Präsident-Krahn-Straße 17,N53.554145 E9.936155,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.944,53.575,"456","2",frei,Faberstraße 23,N53.575270 E9.944320,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.147,53.35,"3200","2",teilweise belegt,Scharmbecker Dorfstraße 2A,N53.350292 E10.147261,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.98,53.463,"497","2",frei,Neue Straße 26,N53.462560 E9.979760,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.104,53.704,"055","3",frei,Poppenbütteler Chaussee 41,N53.703640 E10.103610,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.043,53.579,"313","2",frei,Dehnhaide 12,N53.579073 E10.042557,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.889,53.575,"360","2",frei,Albert-Einstein-Ring 4,N53.574830 E9.889260,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.211,53.514,"459","2",belegt,Harvighorster Weg 2,N53.514130 E10.211440,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.969,53.559,"531","2",frei,Laeiszstraße 15,N53.558779 E9.969319,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.931,53.584,"489","2",frei,Warnstedtstraße 10,N53.583770 E9.931430,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.01,53.581,"408","2",frei,Dorotheenstraße 36,N53.581190 E10.009710,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.996,53.581,"310","2",teilweise belegt,Heilwigstraße 2,N53.580799 E9.996298,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.239,53.674,"9202","2",teilweise belegt,Große Straße 26,N53.674352 E10.239290,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.965,53.552,"556","2",frei,Clemens-Schulz-Straße 96,N53.552243 E9.964925,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.211,53.484,"079","3",frei,Neuer Weg 62A,N53.483558 E10.211489,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.165,53.486,"495","2",frei,Margit-Zinke Straße 32,N53.486410 E10.165130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.032,53.614,"522","2",frei,Rübenkamp 317,N53.613500 E10.032330,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.069,53.603,"295","2",frei,Moosrosenweg 18,N53.603208 E10.069108,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.14,53.628,"229","2",frei,Berner Heerweg 372,N53.628011 E10.140354,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.005,53.588,"683","2",teilweise belegt,Dorotheenstraße 134,N53.587793 E10.004766,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.094,53.652,"903","4",teilweise belegt,Stormarnplatz 3,N53.651740 E10.094320,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.15,53.525,"640","2",belegt,Kandinskyallee 11,N53.524861 E10.149543,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.218,53.487,"247","2",frei,Schulenbrooksweg 1,N53.486988 E10.218075,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.077,53.579,"578","2",teilweise belegt,Walddörferstraße 110,N53.579440 E10.076880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.565,"553","2",frei,Fontenay 1,N53.564928 E9.995237,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.01,53.59,"611","2",frei,Riststraße 3,N53.590368 E10.009969,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.126,53.584,"020","3",frei,Jenfelder Allee 80,N53.584110 E10.126260,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.026,53.55,"588","2",teilweise belegt,Gotenstraße 21,N53.549671 E10.025743,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.211,53.484,"079","3",frei,Neuer Weg 62A,N53.483558 E10.211489,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.028,53.572,"902","2",teilweise belegt,Hamburger Straße 27,N53.571903 E10.028130,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.036,53.629,"692","2",frei,Wellingsbütteler Landstraße 64,N53.629096 E10.035760,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.566,"535","2",teilweise belegt,Kleiner Schäferkamp 40,N53.566200 E9.967290,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.049,53.582,"571","2",frei,Alter Teichweg 15,N53.582460 E10.049480,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.985,53.459,"457","2",frei,Goldtschmidtstraße 5,N53.459150 E9.985390,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.079,53.573,"501","2",frei,Neumann-Reichard-Straße 22,N53.572730 E10.079150,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.948,53.564,"636","2",frei,Düppelstraße 23,N53.564417 E9.947559,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.964,53.565,"265","2",frei,Altonaer Straße 61,N53.564804 E9.963580,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.0,53.602,"648","2",frei,Braamkamp 5,N53.601637 E9.999989,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.927,53.563,"563","2",frei,Stresemannstraße 332,N53.563490 E9.927280,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.907,53.566,"063","3",frei,Von-Sauer-Straße 27,N53.565620 E9.906730,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.945,53.555,"543","2",frei,Warnholtzstraße 7,N53.555330 E9.945310,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.959,53.612,"396","2",frei,Papenreye 11,N53.612360 E9.959220,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.964,53.559,"506","2",frei,Beim Grünen Jäger 21,N53.558582 E9.963582,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.952,53.564,"626","2",frei,Arnkielstraße 3,N53.564032 E9.952473,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.945,53.551,I11,"2",frei,Jessenstraße 11,N53.550730 E9.944930,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.998,53.544,"243","2",teilweise belegt,Osakaallee 6,N53.543508 E9.997992,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.069,53.583,"439","2",frei,Straßburger Straße 65,N53.582800 E10.068830,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.018,53.552,"248","2",teilweise belegt,Kurt-Schumacher-Allee 10,N53.552208 E10.018090,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.814,53.576,"323","2",frei,Heidrehmen 27,N53.576412 E9.813505,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.981,53.467,"424","2",belegt,Blohmstraße 22,N53.466730 E9.981110,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.064,53.572,"242","2",teilweise belegt,Wandsbeker Königstraße 11,N53.572171 E10.064295,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.95,53.546,"394","2",frei,Breite Straße 56,N53.546450 E9.950420,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.016,53.562,"233","2",frei,Schweimlerstraße 1,N53.561661 E10.016461,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.058,53.61,"390","2",frei,Cesar-Klein-Ring 2,N53.609960 E10.058010,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.033,53.583,"514","2",frei,Schleidenstr. 6,N53.583220 E10.033450,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.016,53.624,"475","2",frei,Röntgenstraße 47,N53.623700 E10.016480,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.595,"684","2",frei,Lokstedter Steindamm 33,N53.595358 E9.966528,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.004,53.6,"434","2",belegt,Fiefstücken 8,N53.599830 E10.003740,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.022,53.545,"366","2",belegt,Sachsenfeld 3,N53.545110 E10.022320,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.054,53.569,"021","3",frei,Kantstraße 4,N53.569090 E10.053610,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.547,"068","3",teilweise belegt,Lange Straße 6,N53.547350 E9.956280,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.129,53.671,"433","2",frei,Volksdorfer Damm 252,N53.671020 E10.129310,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.031,53.57,"053","3",teilweise belegt,Finkenau 11,N53.570450 E10.031160,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.208,53.481,"421","2",frei,Curslacker Neuer Deich 45,N53.480560 E10.208010,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.203,53.356,"3700","2",teilweise belegt,Schloßring 50,N53.356164 E10.203260,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.185,53.609,"529","2",frei,Neuer Höltigbaum 6,N53.609470 E10.184680,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.926,53.549,"615","2",belegt,Arnoldstraße 45,N53.548827 E9.925680,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.402,53.251,"13201","4",teilweise belegt,Bastionstraße 3,N53.251100 E10.402400,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.954,53.55,"204","2",belegt,Königstraße 4A,N53.549762 E9.953949,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.912,53.559,"311","2",frei,Friedensallee 265,N53.559076 E9.911802,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.064,53.572,"242","2",teilweise belegt,Wandsbeker Königstraße 11,N53.572171 E10.064295,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.983,53.653,"1212","2",teilweise belegt,Südportal 2,N53.653120 E9.983170,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.528,"574","2",teilweise belegt,Indiastraße 1,N53.527960 E9.994830,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.958,53.57,"356","2",frei,Eppendorfer Weg 35,N53.570400 E9.957800,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.865,53.571,"280","2",teilweise belegt,Heinrich-Plett-Str. 4,N53.571177 E9.864905,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.079,53.551,"464","2",belegt,Bauerberg 2,N53.550660 E10.078790,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.965,53.589,"370","2",frei,Grandweg 104,N53.589170 E9.964890,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.146,53.604,"046","3",frei,Bargteheider Straße 83,N53.603680 E10.145640,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.552,"023","3",frei,Kleine Freiheit 42,N53.551820 E9.956250,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.086,53.534,"508","2",frei,Liebigstraße 40,N53.534190 E10.086130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.57,"013","3",frei,Bei St. Johannis 1,N53.570490 E9.994720,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.955,53.58,"451","2",frei,Lutterothstraße 22,N53.580010 E9.955040,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.019,53.653,V11,"4",teilweise belegt,Tangstedter Landstraße 83,N53.652610 E10.018730,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.014,53.582,"288","2",belegt,Schinkelstraße 1,N53.581918 E10.013520,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.906,53.608,"024","3",teilweise belegt,Kieler Straße 702,N53.607880 E9.905820,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+9.942,53.578,"445","2",frei,Langenfelder Damm 2,N53.578140 E9.941520,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.962,53.554,"516","2",frei,Brigittenstr. 1,N53.554190 E9.961860,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.167,53.649,"012","3",belegt,Wiesenhöfen 2,N53.648780 E10.167440,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.017,53.553,"468","2",frei,Böckmannstraße 5,N53.553460 E10.017040,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.965,53.589,"370","2",frei,Grandweg 104,N53.589170 E9.964890,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.979,53.755,"1216","2",teilweise belegt,Elfenhagen 62,N53.754700 E9.978800,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.021,53.571,"292","2",teilweise belegt,Averhoffstraße 3A,N53.570810 E10.021000,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.904,53.591,"071","3",frei,Schnackenburgallee 153,N53.591269 E9.904259,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.049,53.582,"571","2",frei,Alter Teichweg 15,N53.582460 E10.049480,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.996,53.594,"225","2",teilweise belegt,Bebelallee 1,N53.594247 E9.995713,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.948,53.641,"436","2",teilweise belegt,Ernst-Mittelbach-Ring 53,N53.640760 E9.948410,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.179,53.487,"367","2",frei,Rahel-Varnhagen-Weg 38,N53.486830 E10.179260,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.032,53.56,"350","2",frei,Angerstraße 11,N53.559970 E10.031970,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.031,53.57,"053","3",teilweise belegt,Finkenau 11,N53.570450 E10.031160,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.036,53.629,"692","2",frei,Wellingsbütteler Landstraße 64,N53.629096 E10.035760,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.948,53.561,"628","2",frei,Holstenplatz 14,N53.561321 E9.948480,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.551,"249","2",teilweise belegt,Seilerstraße 16,N53.550520 E9.966698,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.018,53.575,"469","2",teilweise belegt,Zimmerstraße 34,N53.574840 E10.018280,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.876,53.474,"373","2",frei,Striepenweg 41,N53.473660 E9.875880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.126,53.584,"020","3",frei,Jenfelder Allee 80,N53.584110 E10.126260,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.208,53.354,"3900","5",teilweise belegt,An der Kleinbahn 4,N53.353950 E10.208412,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.545,"078","3",belegt,Deichstraße 51,N53.545080 E9.986570,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.993,53.515,"483","2",frei,Fährstraße 10,N53.515390 E9.992780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.956,53.555,"484","2",frei,Gilbertstraße 63,N53.555000 E9.955720,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.203,53.356,"3700","2",teilweise belegt,Schloßring 50,N53.356164 E10.203260,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.985,53.59,"224","2",teilweise belegt,Kümmellstraße 5,N53.590221 E9.985175,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.979,53.457,"377","2",teilweise belegt,Hastedtstraße 1,N53.457180 E9.978540,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.976,53.552,"065","3",frei,Enckeplatz 6,N53.552400 E9.976170,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.964,53.562,"492","2",teilweise belegt,Bartelsstraße 41,N53.562410 E9.964180,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.964,53.565,"265","2",frei,Altonaer Straße 61,N53.564804 E9.963580,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.15,53.525,"640","2",belegt,Kandinskyallee 11,N53.524861 E10.149543,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.025,53.628,"239","2",frei,Erdkampsweg 20,N53.628240 E10.024542,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.036,53.575,"005","3",teilweise belegt,Wagnerstraße 2,N53.575120 E10.036460,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.847,53.574,"422","2",frei,Rugenbarg 9,N53.574340 E9.846620,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.958,53.6,"389","2",frei,Grelckstraße 2,N53.599900 E9.958050,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.993,53.567,"534","2",frei,Heimhuder Straße 38,N53.566752 E9.992543,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.024,53.553,"057","3",belegt,Beim Berliner Tor 2,N53.553140 E10.023600,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.049,53.588,"622","2",frei,Steilshooper Straße 59,N53.587655 E10.049369,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.597,"048","3",belegt,Christoph-Probst-Weg 28,N53.596800 E9.976150,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.059,53.567,"235","2",teilweise belegt,Pappelallee 41,N53.567386 E10.059232,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.024,53.553,"057","3",belegt,Beim Berliner Tor 2,N53.553140 E10.023600,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.114,53.653,"301","2",belegt,Waldweg 4,N53.653350 E10.114020,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.019,53.58,"524","2",teilweise belegt,Herderstr. 37,N53.580020 E10.018950,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.014,53.561,"428","2",frei,An der Alster 9,N53.561080 E10.013930,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.992,53.588,"523","2",frei,Loogeplatz 2,N53.587780 E9.992180,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.032,53.682,"1213","2",teilweise belegt,Tangstedter Landstraße 545,N53.682440 E10.031970,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.989,53.545,"374","2",frei,Mattentwiete 6,N53.545450 E9.989330,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.949,53.559,"397","2",frei,Holstenstraße 156,N53.559071 E9.948590,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.457,"429","2",frei,Großmoorring 11,N53.457090 E10.006060,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.953,53.582,"498","2",frei,Eidelstedter Weg 32,N53.581810 E9.953410,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.18,53.508,"252","2",belegt,Bodestraße 1,N53.507891 E10.180407,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.073,53.556,"487","2",teilweise belegt,Snitgerreihe 38,N53.556340 E10.072900,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.906,53.608,"024","3",teilweise belegt,Kieler Straße 702,N53.607880 E9.905820,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.972,53.585,"569","2",frei,Breitenfelder Straße 16,N53.584900 E9.971780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.845,53.553,"308","2",teilweise belegt,Nienstedtener Marktplatz 20,N53.552735 E9.844532,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.982,53.453,"584","2",frei,Gerade Straße 22,N53.452880 E9.982070,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.981,53.552,"532","2",belegt,Rademachergang 20,N53.552130 E9.980700,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.991,53.557,"478","2",frei,Fehlandtstraße 6,N53.556980 E9.991480,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.213,53.486,"297","2",belegt,Neuer Weg 21,N53.485806 E10.213129,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.975,53.549,"025","3",frei,Zeughausmarkt 19,N53.549260 E9.974710,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.974,53.547,"668","2",frei,Venusberg 34,N53.546886 E9.973986,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.987,53.574,"512","2",belegt,Hansastraße 28,N53.574340 E9.986540,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.019,53.653,V11,"4",teilweise belegt,Tangstedter Landstraße 83,N53.652610 E10.018730,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.989,53.707,"1226","2",teilweise belegt,Buckhörner Moor 110,N53.707062 E9.988827,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.918,53.549,"395","2",frei,Hohenzollernring 24,N53.548780 E9.917770,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.597,"048","3",belegt,Christoph-Probst-Weg 28,N53.596800 E9.976150,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.943,53.554,"509","2",frei,Esmarchstraße 51,N53.554220 E9.943470,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.983,53.461,"245","2",frei,Großer Schippsee 18,N53.460619 E9.983370,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.811,53.559,"455","2",teilweise belegt,Blankeneser Bahnhofstraße 4,N53.558932 E9.811458,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.064,53.587,"671","2",frei,Tondernstraße 24,N53.587491 E10.064361,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.025,53.573,"621","2",frei,Winterhuder Weg 42,N53.572552 E10.024547,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.977,53.553,"270","2",frei,Holstenwall 12A,N53.553342 E9.976922,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.114,53.616,"443","2",frei,Neusurenland 103,N53.616460 E10.113900,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.919,53.632,"674","2",frei,Wählingsallee 15,N53.631516 E9.918798,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.236,53.673,"9200","2",teilweise belegt,Manfred Samusch Straße 5,N53.672950 E10.236111,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.558,"223","2",frei,An der Alster 65,N53.558132 E10.005663,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.036,53.558,"694","2",teilweise belegt,Bürgerweide 72,N53.558287 E10.036430,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.01,53.55,"538","2",frei,Hühnerposten 14,N53.549800 E10.009640,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.048,53.571,"565","2",frei,Eilbeker Weg 73,N53.570726 E10.047845,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.991,53.581,"652","2",frei,Harvestehunder Weg 105,N53.580521 E9.991418,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.016,53.568,"070","3",teilweise belegt,Eduard-Rhein-Ufer 1,N53.567780 E10.016230,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.967,53.582,"519","2",teilweise belegt,Gärtnerstraße 41,N53.582400 E9.966860,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.983,53.587,"403","2",teilweise belegt,Robert-Koch-Straße 2,N53.587430 E9.982700,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.997,53.731,"1214","2",teilweise belegt,Pestalozzistraße 1,N53.731500 E9.996610,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.936,53.554,"326","2",belegt,Präsident-Krahn-Straße 17,N53.554145 E9.936155,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.022,53.584,"238","2",belegt,Jarrestraße 10,N53.584161 E10.021787,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.006,53.633,"035","3",frei,Flughafenstr. 1,N53.632620 E10.006390,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.049,53.63,"444","2",frei,Sodenkamp 8,N53.630350 E10.049000,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.873,53.592,"312","2",frei,Luruper Hauptstraße 138,N53.591702 E9.872562,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.04,53.556,"463","2",frei,Burgstraße 12,N53.556250 E10.040330,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.964,53.566,"358","2",teilweise belegt,Weidenallee 21,N53.566480 E9.963940,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.032,53.614,"522","2",frei,Rübenkamp 317,N53.613500 E10.032330,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.94,53.558,"412","2",frei,Haubachstraße 39,N53.557850 E9.939660,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.237,53.674,"9201","2",teilweise belegt,Manfred Samusch Straße 5,N53.673632 E10.236555,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.065,53.571,"056","3",teilweise belegt,Schloßstraße 8,N53.571140 E10.065180,AC,,Typ2,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.027,53.604,"281","2",frei,Überseering 10,N53.604371 E10.026856,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.996,53.716,"1211","2",teilweise belegt,Moorbekstraße 15,N53.715550 E9.995990,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.939,53.552,"017","3",frei,Große Bergstraße 262,N53.552100 E9.938640,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.954,53.562,"544","2",frei,Oelkersallee 1,N53.561830 E9.953880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.027,53.604,"281","2",frei,Überseering 10,N53.604371 E10.026856,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.18,53.508,"252","2",belegt,Bodestraße 1,N53.507891 E10.180407,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.043,53.54,"357","2",frei,Billhorner Deich 96,N53.539580 E10.042590,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.983,53.548,"545","2",teilweise belegt,Herrengraben 74,N53.548090 E9.983210,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.943,53.593,"261","2",frei,Koppelstraße Ecke Lokstedter Grenzstraße 45,N53.593396 E9.942715,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.963,53.557,"032","3",belegt,Beim Grünen Jäger 8,N53.557150 E9.963180,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.913,53.596,"623","2",teilweise belegt,Jacobsenweg 4,N53.595677 E9.913470,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.99,53.556,"255","2",frei,Büschstraße 12,N53.556103 E9.989969,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.163,53.652,"206","2",frei,Kattjahren 4,N53.651913 E10.162925,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.06,53.563,"517","2",frei,Casper-Voght-Str. 78,N53.562670 E10.059840,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.012,53.545,"042","3",belegt,Banksstraße 28,N53.544683 E10.012427,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+9.992,53.591,"568","2",belegt,Kellinghusenstraße 10,N53.590674 E9.992296,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.051,53.593,"550","2",frei,Tieloh 81,N53.593230 E10.051420,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.968,53.586,"638","2",frei,Hoheluftchaussee 167,N53.585802 E9.968065,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.038,53.561,"028","3",frei,Marienthaler Straße 1,N53.560620 E10.038330,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.214,53.488,"549","2",frei,Bergedorfer Schloßstraße 10,N53.488170 E10.214030,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.01,53.581,"408","2",frei,Dorotheenstraße 36,N53.581190 E10.009710,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.552,"065","3",frei,Enckeplatz 6,N53.552400 E9.976170,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.019,53.523,"485","2",teilweise belegt,Katenweide 1,N53.523060 E10.018930,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.929,53.629,"027","3",frei,Sellhopsweg 2,N53.629264 E9.929125,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.008,53.554,"208","2",teilweise belegt,Heidi-Kabel-Platz 1,N53.554492 E10.007712,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.936,53.546,"202","2",frei,Palmaille 73,N53.546437 E9.935543,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.709,"1224","2",teilweise belegt,Alter Heidberg 1,N53.708660 E9.994940,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.939,53.562,"620","2",teilweise belegt,Eva-Rühmkorf-Straße 9,N53.561580 E9.938690,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.549,"228","2",frei,Heiligengeistbrücke 2,N53.548722 E9.986612,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.066,53.55,"505","2",frei,Howisch 5,N53.550340 E10.066030,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.076,53.613,"285","2",belegt,Bramfelder Chaussee 238,N53.613300 E10.075830,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.017,53.556,"222","2",teilweise belegt,Steindamm 94,N53.555550 E10.017166,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.973,53.557,"257","2",frei,Feldstraße 51,N53.556978 E9.973255,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.863,53.559,"214","2",frei,Ohnhorststraße 18,N53.558802 E9.863475,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.079,53.573,"501","2",frei,Neumann-Reichard-Straße 22,N53.572730 E10.079150,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.937,53.549,"551","2",frei,Schmarjestraße 50,N53.549039 E9.936738,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.013,53.52,"240","2",frei,Harburger Chaussee 17,N53.520476 E10.013471,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.55,"577","2",frei,Rathausstraße 6,N53.549964 E9.994737,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.102,53.598,"036","3",frei,Traberweg 2,N53.597620 E10.101780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.978,53.584,"500","2",frei,Löwenstraße 20,N53.583780 E9.978360,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.031,53.579,"613","2",frei,Beethovenstraße 68,N53.579226 E10.031267,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.141,53.626,"416","2",frei,Hermann-Balk-Straße 124,N53.625580 E10.140730,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.028,53.572,"902","2",teilweise belegt,Hamburger Straße 27,N53.571903 E10.028130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.88,53.565,"440","2",frei,Beselerstraße 29,N53.565190 E9.880470,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.052,53.586,"513","2",frei,Krausestr. 2,N53.585990 E10.051850,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.903,53.608,"392","2",frei,Ekenknick 3,N53.607850 E9.903040,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.06,53.563,"517","2",frei,Casper-Voght-Str. 78,N53.562670 E10.059840,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.239,53.674,"9202","2",teilweise belegt,Große Straße 26,N53.674352 E10.239290,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.017,53.588,"393","2",frei,Barmbeker Straße 62,N53.588410 E10.016530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.797,53.58,"419","2",frei,Sülldorfer Landstraße 196,N53.580400 E9.797170,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.016,53.568,"070","3",teilweise belegt,Eduard-Rhein-Ufer 1,N53.567780 E10.016230,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.008,53.553,"091","3",teilweise belegt,Kirchenallee 56,N53.552950 E10.008180,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.199,53.501,"460","2",frei,Lohbrügger Landstraße 73A,N53.500530 E10.198920,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.97,53.577,"304","2",teilweise belegt,Gneisenaustraße 1,N53.577105 E9.970213,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.568,"448","2",teilweise belegt,Schlüterstraße 50,N53.567940 E9.986560,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.981,53.467,"424","2",belegt,Blohmstraße 22,N53.466730 E9.981110,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.984,53.594,"537","2",teilweise belegt,Tarpenbekstraße 47,N53.593980 E9.983860,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.988,53.514,"486","2",frei,Mannesallee 28,N53.514290 E9.987890,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.227,53.485,"458","2",frei,August-Bebel-Straße 73,N53.484620 E10.226990,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.038,53.578,"642","2",frei,Berthastraße 1,N53.578126 E10.038250,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.633,"035","3",frei,Flughafenstr. 1,N53.632620 E10.006390,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.208,53.354,"3900","5",teilweise belegt,An der Kleinbahn 4,N53.353950 E10.208412,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.017,53.551,"663","2",frei,Norderstraße 141,N53.550582 E10.017192,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.104,53.704,"055","3",frei,Poppenbütteler Chaussee 41,N53.703640 E10.103610,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.931,53.556,"527","2",frei,Nernstweg 29,N53.556160 E9.931470,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.672,"1217","2",teilweise belegt,Rugenbarg 84,N53.672260 E9.986980,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.042,53.55,"685","2",frei,Grevenweg 88,N53.550424 E10.041939,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.996,53.716,"1211","2",teilweise belegt,Moorbekstraße 15,N53.715550 E9.995990,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.993,53.515,"483","2",frei,Fährstraße 10,N53.515390 E9.992780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.595,"684","2",frei,Lokstedter Steindamm 33,N53.595358 E9.966528,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.981,53.571,"354","2",frei,Heinrich-Barth-Straße 18,N53.571390 E9.981220,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.972,53.593,"559","2",teilweise belegt,Martinistraße 26,N53.592630 E9.971780,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.904,53.591,"071","3",frei,Schnackenburgallee 153,N53.591269 E9.904259,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.012,53.557,"375","2",teilweise belegt,Greifswalder Str. 37,N53.557290 E10.011770,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.941,53.575,"583","2",teilweise belegt,Armbruststraße 18,N53.574780 E9.941380,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.989,53.564,"258","2",frei,Moorweidenstraße 22,N53.563920 E9.989072,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.013,53.559,"480","2",frei,Schmilinskystraße 32,N53.559020 E10.012920,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.031,53.565,"612","2",frei,Lessingstraße 21,N53.565318 E10.030998,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.953,53.578,"016","3",frei,Eichenstraße 90,N53.577910 E9.953320,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.982,53.579,"387","2",frei,Innocentiastraße 58,N53.579210 E9.982310,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.988,53.594,"386","2",frei,Lokstedter Weg 3,N53.594430 E9.987560,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.98,53.565,"650","2",frei,Durchschnitt 27,N53.564665 E9.979653,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.596,"320","2",frei,Schubackstraße 4,N53.596439 E9.987231,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.546,"236","2",belegt,Steintwiete 18,N53.546486 E9.986622,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.978,53.548,"081","3",teilweise belegt,Englische Planke 16,N53.547800 E9.978130,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+9.813,53.562,"651","2",frei,Godeffroystraße 48,N53.562319 E9.812606,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.989,53.578,"617","2",teilweise belegt,Oberstraße 106,N53.577713 E9.989339,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.051,53.558,"465","2",teilweise belegt,Carl Petersen Straße 102,N53.557540 E10.050650,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.019,53.653,V11,"4",teilweise belegt,Tangstedter Landstraße 83,N53.652610 E10.018730,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.96,53.56,"291","2",teilweise belegt,Juliusstraße 2,N53.560465 E9.959802,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.962,53.574,"074","3",teilweise belegt,Eppendorfer Weg 86,N53.574240 E9.961880,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.988,53.449,"072","3",frei,Winsener Straße 36,N53.448830 E9.987870,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.183,53.399,"572","2",frei,Zollenspieker Hauptdeich 146,N53.398740 E10.183030,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.001,53.69,"1203","2",teilweise belegt,Am Hallenbad 14,N53.689950 E10.001290,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.977,53.46,"200","2",frei,Julius-Ludowieg-Straße 23,N53.459600 E9.976730,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.064,53.554,"003","3",frei,Hammer Landstraße 204,N53.553948 E10.063607,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.951,53.619,"077","3",teilweise belegt,Tibarg 24,N53.618960 E9.951220,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.033,53.549,"682","2",teilweise belegt,Wendenstraße 162,N53.548912 E10.032816,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.928,53.6,"470","2",belegt,Jütländer Allee 47,N53.600000 E9.928480,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.036,53.587,"585","2",belegt,Wiesendamm 51,N53.587465 E10.036253,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.957,53.557,"049","3",teilweise belegt,Thadenstraße 120,N53.557030 E9.956660,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+9.952,53.575,"216","2",teilweise belegt,Henriettenstraße 77,N53.575248 E9.951946,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.994,53.7,"1204","2",teilweise belegt,Buchenweg 101,N53.699510 E9.993560,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.916,53.563,"635","2",teilweise belegt,Paul-Dessau-Straße 2,N53.563490 E9.915853,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.079,53.581,"066","3",frei,Auf dem Königslande 51,N53.581100 E10.079390,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.094,53.686,"368","2",frei,Tannenhof 52,N53.686233 E10.093972,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.112,53.602,"282","2",frei,Ivo-Hauptmann-Ring 9,N53.601705 E10.112279,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.997,53.552,"901","2",belegt,Hermannstraße 13,N53.552021 E9.996826,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.944,53.575,"456","2",frei,Faberstraße 23,N53.575270 E9.944320,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.975,53.589,"352","2",frei,Martinistraße 72,N53.588630 E9.975060,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.022,53.584,"238","2",belegt,Jarrestraße 10,N53.584161 E10.021787,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.976,53.546,"372","2",belegt,Brauerknechtgraben 55,N53.546024 E9.976340,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.983,53.653,"1212","2",teilweise belegt,Südportal 2,N53.653120 E9.983170,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.987,53.549,"228","2",frei,Heiligengeistbrücke 2,N53.548722 E9.986612,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.024,53.569,"002","3",frei,Mundsburger Damm 47,N53.568608 E10.024193,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.97,53.558,"474","2",frei,Marktstr. 100,N53.558170 E9.969890,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.967,53.56,"033","3",teilweise belegt,Sternstraße 68,N53.559840 E9.966910,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.005,53.581,"391","2",teilweise belegt,Wentzelstraße 2,N53.580650 E10.005170,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.976,53.571,"525","2",frei,Kielortallee 1,N53.570630 E9.976050,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.938,53.559,"067","3",frei,Felicitas-Kukuck-Straße 10,N53.559472 E9.937860,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.176,53.483,"454","2",frei,Henriette-Herz-Ring 30,N53.482570 E10.176060,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.96,53.557,"037","3",frei,Schmidt-Rottluff-Weg 13,N53.556980 E9.959610,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.95,53.546,"394","2",frei,Breite Straße 56,N53.546450 E9.950420,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.949,53.57,"328","2",teilweise belegt,Pinneberger Weg 2,N53.569980 E9.948950,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+13.473,51.163,"7284","2",teilweise belegt,Schulplatz 5,N51.163120 E13.473410,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.988,53.585,"542","2",frei,Hegestraße 80,N53.585330 E9.987960,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.938,53.559,"067","3",frei,Felicitas-Kukuck-Straße 10,N53.559472 E9.937860,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.979,53.55,"241","2",teilweise belegt,Neuer Steinweg 1,N53.550382 E9.979475,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.889,53.56,"657","2",frei,Beselerplatz 8,N53.560093 E9.888628,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.018,53.583,"579","2",frei,Gertigstraße 64,N53.582853 E10.018196,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.052,53.603,"554","2",frei,Steilshooper Straße 260,N53.603280 E10.051920,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.198,53.489,"496","2",frei,Kurt-A.-Körber-Chaussee 35,N53.488840 E10.197570,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.979,53.464,"476","2",frei,Wallgraben 46,N53.463710 E9.978910,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.975,53.549,"025","3",frei,Zeughausmarkt 19,N53.549260 E9.974710,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+9.978,53.548,"081","3",teilweise belegt,Englische Planke 16,N53.547800 E9.978130,AC,,Typ2,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.909,53.566,"276","2",frei,Von-Sauer-Straße 11,N53.565580 E9.908842,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.076,53.613,"285","2",belegt,Bramfelder Chaussee 238,N53.613300 E10.075830,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.115,53.608,"504","2",frei,Am Luisenhof 1,N53.607580 E10.115150,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.995,53.57,"013","3",frei,Bei St. Johannis 1,N53.570490 E9.994720,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.983,53.587,"403","2",teilweise belegt,Robert-Koch-Straße 2,N53.587430 E9.982700,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.027,53.626,"566","2",frei,Ratsmühlendamm 13,N53.626077 E10.027135,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.137,53.572,"423","2",frei,Öjendorfer Damm 60,N53.571800 E10.136530,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.981,53.546,"047","3",belegt,Schaarsteinweg 4,N53.546010 E9.981080,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.954,53.562,"544","2",frei,Oelkersallee 1,N53.561830 E9.953880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.205,53.49,"316","2",frei,Johann-Meyer-Straße 54,N53.490442 E10.205254,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.232,53.672,"9205","2",teilweise belegt,Stormarnstraße 35,N53.672432 E10.231814,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.98,53.582,"268","2",teilweise belegt,Lehmweg 27,N53.581782 E9.979558,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.991,53.605,"384","2",frei,Orchideenstieg 14,N53.605270 E9.990560,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.889,53.575,"360","2",frei,Albert-Einstein-Ring 4,N53.574830 E9.889260,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.937,53.548,"530","2",frei,Königstraße 52,N53.547850 E9.937480,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.402,53.251,"13201","4",teilweise belegt,Bastionstraße 3,N53.251100 E10.402400,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.993,53.539,"904","4",teilweise belegt,Am Strandkai 1,N53.539280 E9.992880,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.965,53.552,"556","2",frei,Clemens-Schulz-Straße 96,N53.552243 E9.964925,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.97,53.581,"260","2",frei,Eppendorfer Weg 203,N53.581130 E9.969798,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.985,53.463,"380","2",belegt,Karnapp 25,N53.463220 E9.984760,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.046,53.585,"680","2",frei,Maurienstraße 13,N53.585399 E10.045834,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.057,53.55,"462","2",frei,Wendenstraße 473,N53.549660 E10.056690,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.986,53.456,"317","2",frei,Wilstorfer Straße 58,N53.456060 E9.986262,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.927,53.563,"563","2",frei,Stresemannstraße 332,N53.563490 E9.927280,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.929,53.548,"560","2",frei,Holländische Reihe 27,N53.547690 E9.928810,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.032,53.682,"1213","2",teilweise belegt,Tangstedter Landstraße 545,N53.682440 E10.031970,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.093,53.654,"290","2",frei,Heegbarg 12,N53.653650 E10.092580,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.233,53.479,"427","2",frei,Holtenklinker Straße 137,N53.479330 E10.232870,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.974,53.668,"1210","2",teilweise belegt,Niendorfer Straße 143,N53.667770 E9.974250,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.103,53.54,"450","2",frei,Billstedter Hauptstraße 54,N53.539770 E10.103210,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.581,"031","3",teilweise belegt,Straßenbahnring 17,N53.580770 E9.975620,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+10.018,53.712,"1201","2",teilweise belegt,Stormarnstraße 55,N53.711770 E10.018230,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.083,53.66,"634","2",frei,Harksheider Straße 11,N53.660268 E10.082620,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.929,53.548,"560","2",frei,Holländische Reihe 27,N53.547690 E9.928810,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.147,53.35,"3200","2",teilweise belegt,Scharmbecker Dorfstraße 2A,N53.350292 E10.147261,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.998,53.552,"231","2",teilweise belegt,Alstertor 13,N53.552225 E9.997597,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.031,53.565,"612","2",frei,Lessingstraße 21,N53.565318 E10.030998,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.967,53.56,"033","3",teilweise belegt,Sternstraße 68,N53.559840 E9.966910,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.01,53.55,"538","2",frei,Hühnerposten 14,N53.549800 E10.009640,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.996,53.581,"310","2",teilweise belegt,Heilwigstraße 2,N53.580799 E9.996298,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.968,53.586,"638","2",frei,Hoheluftchaussee 167,N53.585802 E9.968065,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.874,53.554,"430","2",teilweise belegt,Hochrad 24,N53.554190 E9.874060,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.026,53.55,"588","2",teilweise belegt,Gotenstraße 21,N53.549671 E10.025743,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.21,53.503,"453","2",teilweise belegt,Habermannstraße 37,N53.502900 E10.210470,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.581,"031","3",teilweise belegt,Straßenbahnring 17,N53.580770 E9.975620,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+10.016,53.589,"226","2",frei,Borgweg 10,N53.589499 E10.015993,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.988,53.585,"542","2",frei,Hegestraße 80,N53.585330 E9.987960,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.971,53.571,"520","2",teilweise belegt,Gustav-Falke-Straße 30,N53.570860 E9.971270,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.973,53.557,"257","2",frei,Feldstraße 51,N53.556978 E9.973255,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.094,53.686,"368","2",frei,Tannenhof 52,N53.686233 E10.093972,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.945,53.551,I11,"2",frei,Jessenstraße 11,N53.550730 E9.944930,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.205,53.49,"316","2",frei,Johann-Meyer-Straße 54,N53.490442 E10.205254,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.054,53.569,"021","3",frei,Kantstraße 4,N53.569090 E10.053610,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.97,53.581,"260","2",frei,Eppendorfer Weg 203,N53.581130 E9.969798,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.93,53.556,"351","2",teilweise belegt,Barnerstraße 41,N53.556440 E9.929560,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.903,53.608,"392","2",frei,Ekenknick 3,N53.607850 E9.903040,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.906,53.608,"024","3",teilweise belegt,Kieler Straße 702,N53.607880 E9.905820,AC,,Typ2,belegt,Öffentlich zugänglich,RFID-Karte
+9.931,53.554,"619","2",frei,Hohenesch 50,N53.554339 E9.930795,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.946,53.581,"479","2",frei,Hartwig-Hesse-Straße 3,N53.580650 E9.946360,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.018,53.575,"469","2",teilweise belegt,Zimmerstraße 34,N53.574840 E10.018280,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.979,53.566,"307","2",teilweise belegt,Bundesstraße 35,N53.566112 E9.978813,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.926,53.545,"447","2",teilweise belegt,Neumühlen 3,N53.544690 E9.925940,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.094,53.652,"903","4",teilweise belegt,Stormarnplatz 3,N53.651740 E10.094320,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.008,53.705,"1207","2",teilweise belegt,Marktplatz 8,N53.704650 E10.008260,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.964,53.559,"506","2",frei,Beim Grünen Jäger 21,N53.558582 E9.963582,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.027,53.582,"004","3",teilweise belegt,Weidestraße 122,N53.581572 E10.026825,DC,,CHAdeMO,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.985,53.557,"080","3",frei,Drehbahn 13,N53.556520 E9.984960,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.942,53.58,"471","2",belegt,Sartoriusstraße 17,N53.579830 E9.942350,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.038,53.561,"028","3",frei,Marienthaler Straße 1,N53.560620 E10.038330,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.215,53.488,"364","2",frei,Chrysanderstraße 31,N53.488120 E10.215300,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.985,53.459,"457","2",frei,Goldtschmidtstraße 5,N53.459150 E9.985390,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.011,53.683,"1220","2",teilweise belegt,Segeberger Chaussee 74A,N53.682890 E10.010950,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.006,53.633,"038","3",teilweise belegt,Flughafenstr. 1,N53.632620 E10.006390,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.064,53.554,"003","3",frei,Hammer Landstraße 204,N53.553948 E10.063607,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.049,53.588,"622","2",frei,Steilshooper Straße 59,N53.587655 E10.049369,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.038,53.591,"521","2",frei,Hellbrookstraße 9,N53.591410 E10.038130,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.907,53.566,"063","3",frei,Von-Sauer-Straße 27,N53.565620 E9.906730,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.994,53.458,"246","2",teilweise belegt,Zum Handwerkszentrum 1,N53.457804 E9.994314,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.01,53.558,"490","2",frei,Gurlittstraße 31,N53.558070 E10.009850,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.986,53.466,"627","2",belegt,Veritaskai 3,N53.466260 E9.986480,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.024,53.569,"002","3",frei,Mundsburger Damm 47,N53.568608 E10.024193,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.197,53.476,"461","2",frei,Kampweg 6,N53.476340 E10.196570,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.197,53.476,"461","2",frei,Kampweg 6,N53.476340 E10.196570,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.056,53.562,"660","2",teilweise belegt,Chateauneufstraße 2,N53.561851 E10.056089,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.976,53.546,"372","2",belegt,Brauerknechtgraben 55,N53.546024 E9.976340,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.079,53.581,"066","3",frei,Auf dem Königslande 51,N53.581100 E10.079390,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+10.022,53.545,"366","2",belegt,Sachsenfeld 3,N53.545110 E10.022320,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.861,53.565,"420","2",teilweise belegt,Hemmingstedter Weg 130,N53.565030 E9.861010,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.012,53.556,"482","2",frei,Zimmerpforte 2,N53.555680 E10.012130,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.017,53.586,"586","2",frei,Semperstraße 43,N53.586203 E10.016561,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.963,53.466,"275","2",teilweise belegt,Nobleestraße 3,N53.466082 E9.963175,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.069,53.574,"564","2",teilweise belegt,Litzowstieg 6,N53.573570 E10.068770,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.214,53.488,"549","2",frei,Bergedorfer Schloßstraße 10,N53.488170 E10.214030,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.208,53.354,"3900","5",teilweise belegt,An der Kleinbahn 4,N53.353950 E10.208412,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.114,53.616,"443","2",frei,Neusurenland 103,N53.616460 E10.113900,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.038,53.578,"642","2",frei,Berthastraße 1,N53.578126 E10.038250,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.987,53.545,"078","3",belegt,Deichstraße 51,N53.545080 E9.986570,AC,,Typ2,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.976,53.557,"059","3",belegt,Sievekingplatz 2,N53.556500 E9.975970,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+9.956,53.564,"473","2",frei,Langenfelder Straße 18,N53.563730 E9.955680,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.104,53.704,"055","3",frei,Poppenbütteler Chaussee 41,N53.703640 E10.103610,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.938,53.559,"067","3",frei,Felicitas-Kukuck-Straße 10,N53.559472 E9.937860,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.959,53.579,"637","2",frei,Ottersbekallee 31,N53.579181 E9.958507,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.931,53.556,"527","2",frei,Nernstweg 29,N53.556160 E9.931470,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.995,53.57,"013","3",frei,Bei St. Johannis 1,N53.570490 E9.994720,DC,,CHAdeMO,frei,Öffentlich zugänglich,RFID-Karte
+10.008,53.553,"091","3",teilweise belegt,Kirchenallee 56,N53.552950 E10.008180,DC,,CHAdeMO,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.005,53.549,"402","2",belegt,Johanniswall 6,N53.548900 E10.004870,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.867,53.536,"040","3",frei,Hein-Saß-Weg 17,N53.536030 E9.866920,AC,,Typ2,frei,Öffentlich zugänglich,RFID-Karte
+9.996,53.56,"253","2",teilweise belegt,Alsterufer 3,N53.559507 E9.996083,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.983,53.605,"383","2",teilweise belegt,Borsteler Chaussee 45,N53.605190 E9.982970,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.019,53.577,"399","2",teilweise belegt,Schenkendorfstr. 37,N53.577090 E10.018780,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.027,53.582,"004","3",teilweise belegt,Weidestraße 122,N53.581572 E10.026825,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.043,53.586,"230","2",frei,Poppenhusenstraße 2,N53.585581 E10.043033,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+9.99,53.573,"043","3",teilweise belegt,Hallerstraße 85,N53.572810 E9.990070,DC,,CHAdeMO,belegt,Öffentlich zugänglich,RFID-Karte
+9.927,53.553,"376","2",frei,Am Born 6B,N53.553080 E9.926600,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.018,53.712,"1201","2",teilweise belegt,Stormarnstraße 55,N53.711770 E10.018230,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.005,53.549,"267","2",belegt,Altstädter Straße 2,N53.549381 E10.004708,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+9.981,53.459,"050","3",teilweise belegt,Harburger Rathausstraße 37,N53.458990 E9.981150,DC,,CHAdeMO,unbekannt,Öffentlich zugänglich,RFID-Karte
+9.949,53.58,"264","2",frei,Stellinger Weg 37,N53.579727 E9.948501,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.012,53.545,"042","3",belegt,Banksstraße 28,N53.544683 E10.012427,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
+10.009,53.585,"704","2",frei,Moorfurthweg 13,N53.585353 E10.008771,AC,,Typ2/Schuko,frei,Öffentlich zugänglich,RFID-Karte
+10.005,53.585,"359","2",belegt,Sierichstraße 78,N53.584710 E10.004650,AC,,Typ2/Schuko,belegt,Öffentlich zugänglich,RFID-Karte
+10.016,53.624,"475","2",frei,Röntgenstraße 47,N53.623700 E10.016480,AC,,Typ2/Schuko,unbekannt,Öffentlich zugänglich,RFID-Karte
